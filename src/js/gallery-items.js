@@ -2,11 +2,11 @@ export const galleryItems = [
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#00008B",
-      red: "#FF0000",
-      white: "#FFFFFF",
+      blue: '#00008B',
+      red: '#FF0000',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: true,
       withOneMainColor: true,
@@ -49,22 +49,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/240px-Flag_of_Australia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/240px-Flag_of_Australia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png',
     SovereignStateFlags: {
-      english: "Australia",
-      spanish: "Australia",
-      ukrainian: "Австралія",
+      english: 'Australia',
+      spanish: 'Australia',
+      ukrainian: 'Австралія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#EF3340",
-      white: "#FFFFFF",
+      red: '#EF3340',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -107,23 +107,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/180px-Flag_of_Austria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/180px-Flag_of_Austria.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png',
     SovereignStateFlags: {
-      english: "Austria",
-      spanish: "Austria",
-      ukrainian: "Австрія",
+      english: 'Austria',
+      spanish: 'Austria',
+      ukrainian: 'Австрія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#00b5e2",
-      red: "#ef3340",
-      green: "#509e2f",
+      blue: '#00b5e2',
+      red: '#ef3340',
+      green: '#509e2f',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -166,22 +166,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/240px-Flag_of_Azerbaijan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/240px-Flag_of_Azerbaijan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1920px-Flag_of_Azerbaijan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1920px-Flag_of_Azerbaijan.svg.png',
     SovereignStateFlags: {
-      english: "Azerbaijan",
-      spanish: "Azerbaiyán",
-      ukrainian: "Азербайджан",
+      english: 'Azerbaijan',
+      spanish: 'Azerbaiyán',
+      ukrainian: 'Азербайджан',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#FF0000",
-      black: "#000000",
+      red: '#FF0000',
+      black: '#000000',
     },
-    proportions: "5:7",
+    proportions: '5:7',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -224,23 +224,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/168px-Flag_of_Albania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/168px-Flag_of_Albania.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png',
     SovereignStateFlags: {
-      english: "Albania",
-      spanish: "Albania",
-      ukrainian: "Албанія",
+      english: 'Albania',
+      spanish: 'Albania',
+      ukrainian: 'Албанія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#D21034",
-      geen: "#006633",
-      white: "#FFFFFF",
+      red: '#D21034',
+      geen: '#006633',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -283,23 +283,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/180px-Flag_of_Algeria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/180px-Flag_of_Algeria.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1024px-Flag_of_Algeria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1024px-Flag_of_Algeria.svg.png',
     SovereignStateFlags: {
-      english: "Algeria",
-      spanish: "Argelia",
-      ukrainian: "Алжир",
+      english: 'Algeria',
+      spanish: 'Argelia',
+      ukrainian: 'Алжир',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#C8102E",
-      black: "#FFCD00",
-      yellow: "#000000",
+      red: '#C8102E',
+      black: '#FFCD00',
+      yellow: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -342,24 +342,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/180px-Flag_of_Angola.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/180px-Flag_of_Angola.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1024px-Flag_of_Angola.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1024px-Flag_of_Angola.svg.png',
     SovereignStateFlags: {
-      english: "Angola",
-      spanish: "Angola",
-      ukrainian: "Ангола",
+      english: 'Angola',
+      spanish: 'Angola',
+      ukrainian: 'Ангола',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#10069f",
-      yellow: "#fedd00",
-      red: "#d50032",
-      brown: "#c6aa76",
+      blue: '#10069f',
+      yellow: '#fedd00',
+      red: '#d50032',
+      brown: '#c6aa76',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -402,25 +402,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/172px-Flag_of_Andorra.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/172px-Flag_of_Andorra.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1024px-Flag_of_Andorra.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1024px-Flag_of_Andorra.svg.png',
     SovereignStateFlags: {
-      english: "Andorra",
-      spanish: "Andorra",
-      ukrainian: "Андорра",
+      english: 'Andorra',
+      spanish: 'Andorra',
+      ukrainian: 'Андорра',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      red: "#ce1126",
-      blue: "#0072c6",
-      yellow: "#fcd116",
-      black: "#000000",
-      white: "#ffffff",
+      red: '#ce1126',
+      blue: '#0072c6',
+      yellow: '#fcd116',
+      black: '#000000',
+      white: '#ffffff',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -463,24 +463,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/180px-Flag_of_Antigua_and_Barbuda.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/180px-Flag_of_Antigua_and_Barbuda.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1024px-Flag_of_Antigua_and_Barbuda.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1024px-Flag_of_Antigua_and_Barbuda.svg.png',
     SovereignStateFlags: {
-      english: "Antigua and Barbuda",
-      spanish: "Antigua y Barbuda",
-      ukrainian: "Антигуа і Барбуда",
+      english: 'Antigua and Barbuda',
+      spanish: 'Antigua y Barbuda',
+      ukrainian: 'Антигуа і Барбуда',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#6CACE4",
-      yellow: "#FFB81C",
-      white: "#FFFFFF",
-      brown: "#7D4016",
+      blue: '#6CACE4',
+      yellow: '#FFB81C',
+      white: '#FFFFFF',
+      brown: '#7D4016',
     },
-    proportions: "9:14",
+    proportions: '9:14',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -523,22 +523,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/192px-Flag_of_Argentina.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/192px-Flag_of_Argentina.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png',
     SovereignStateFlags: {
-      english: "Argentina",
-      spanish: "Argentina",
-      ukrainian: "Аргентина",
+      english: 'Argentina',
+      spanish: 'Argentina',
+      ukrainian: 'Аргентина',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      white: "#FFFFFF",
-      black: "#000000",
+      white: '#FFFFFF',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -581,24 +581,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/180px-Flag_of_the_Taliban.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/180px-Flag_of_the_Taliban.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/1920px-Flag_of_the_Taliban.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/1920px-Flag_of_the_Taliban.svg.png',
     SovereignStateFlags: {
-      english: "Afghanistan",
-      spanish: "Afghanistan",
-      ukrainian: "Афганістан",
+      english: 'Afghanistan',
+      spanish: 'Afghanistan',
+      ukrainian: 'Афганістан',
     },
   },
   // ================================================================================================================================
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#00778B",
-      yellow: "#FFC72C",
-      black: "#000000",
+      blue: '#00778B',
+      yellow: '#FFC72C',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -641,22 +641,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/240px-Flag_of_the_Bahamas.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/240px-Flag_of_the_Bahamas.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1920px-Flag_of_the_Bahamas.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1920px-Flag_of_the_Bahamas.svg.png',
     SovereignStateFlags: {
-      english: "The Bahamas",
-      spanish: "Bahamas",
-      ukrainian: "Багамські Острови",
+      english: 'The Bahamas',
+      spanish: 'Bahamas',
+      ukrainian: 'Багамські Острови',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      green: "#006a4e",
-      red: "#f42a41",
+      green: '#006a4e',
+      red: '#f42a41',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -699,23 +699,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/200px-Flag_of_Bangladesh.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/200px-Flag_of_Bangladesh.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1024px-Flag_of_Bangladesh.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1024px-Flag_of_Bangladesh.svg.png',
     SovereignStateFlags: {
-      english: "Bangladesh",
-      spanish: "Bangladés",
-      ukrainian: "Бангладеш",
+      english: 'Bangladesh',
+      spanish: 'Bangladés',
+      ukrainian: 'Бангладеш',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#00267f",
-      yellow: "#ffc726",
-      black: "#000000",
+      blue: '#00267f',
+      yellow: '#ffc726',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -758,22 +758,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/180px-Flag_of_Barbados.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/180px-Flag_of_Barbados.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1024px-Flag_of_Barbados.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1024px-Flag_of_Barbados.svg.png',
     SovereignStateFlags: {
-      english: "Barbados",
-      spanish: "Barbados",
-      ukrainian: "Барбадос",
+      english: 'Barbados',
+      spanish: 'Barbados',
+      ukrainian: 'Барбадос',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      white: "#FFFFFF",
-      red: "#DA291C",
+      white: '#FFFFFF',
+      red: '#DA291C',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -816,22 +816,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/200px-Flag_of_Bahrain.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/200px-Flag_of_Bahrain.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1024px-Flag_of_Bahrain.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1024px-Flag_of_Bahrain.svg.png',
     SovereignStateFlags: {
-      english: "Barbados",
-      spanish: "Barbados",
-      ukrainian: "Бахрейн",
+      english: 'Barbados',
+      spanish: 'Barbados',
+      ukrainian: 'Бахрейн',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      green: "#007D2C",
-      red: "#CF101A",
+      green: '#007D2C',
+      red: '#CF101A',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -874,28 +874,28 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/375px-Flag_of_Belarus.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/375px-Flag_of_Belarus.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1024px-Flag_of_Belarus.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1024px-Flag_of_Belarus.svg.png',
     SovereignStateFlags: {
-      english: "Belarus",
-      spanish: "Bielorrusia",
-      ukrainian: "Білорусь",
+      english: 'Belarus',
+      spanish: 'Bielorrusia',
+      ukrainian: 'Білорусь',
     },
   },
   {
     numberOfColors: 8,
     colorsUsed: {
-      blue: "#171696",
-      red: "#d90f19",
-      white: "#ffffff",
-      green: "#338a00",
-      brown1: "#b68a6a",
-      brown2: "#653024",
-      yellow: "#ffe682",
-      blue: "#9dc9e2",
+      blue: '#171696',
+      red: '#d90f19',
+      white: '#ffffff',
+      green: '#338a00',
+      brown1: '#b68a6a',
+      brown2: '#653024',
+      yellow: '#ffe682',
+      blue: '#9dc9e2',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -938,23 +938,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/200px-Flag_of_Belize.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/200px-Flag_of_Belize.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1024px-Flag_of_Belize.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1024px-Flag_of_Belize.svg.png',
     SovereignStateFlags: {
-      english: "Belize",
-      spanish: "Belice",
-      ukrainian: "Беліз",
+      english: 'Belize',
+      spanish: 'Belice',
+      ukrainian: 'Беліз',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      black: "#000000",
-      red: "#EF3340",
-      yellow: "#FDDA24",
+      black: '#000000',
+      red: '#EF3340',
+      yellow: '#FDDA24',
     },
-    proportions: "13:15",
+    proportions: '13:15',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -997,23 +997,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/139px-Flag_of_Belgium.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/139px-Flag_of_Belgium.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1024px-Flag_of_Belgium.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1024px-Flag_of_Belgium.svg.png',
     SovereignStateFlags: {
-      english: "Belgium",
-      spanish: "Bélgica",
-      ukrainian: "Бельгія",
+      english: 'Belgium',
+      spanish: 'Bélgica',
+      ukrainian: 'Бельгія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#008850",
-      red: "#E90929",
-      yellow: "#FCD20F",
+      green: '#008850',
+      red: '#E90929',
+      yellow: '#FCD20F',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1056,23 +1056,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/180px-Flag_of_Benin.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/180px-Flag_of_Benin.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1024px-Flag_of_Benin.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1024px-Flag_of_Benin.svg.png',
     SovereignStateFlags: {
-      english: "Benin",
-      spanish: "Benín",
-      ukrainian: "Бенін",
+      english: 'Benin',
+      spanish: 'Benín',
+      ukrainian: 'Бенін',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#009B74",
-      red: "#D01C1F",
-      white: "#FFFFFF",
+      green: '#009B74',
+      red: '#D01C1F',
+      white: '#FFFFFF',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1115,23 +1115,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/200px-Flag_of_Bulgaria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/200px-Flag_of_Bulgaria.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1024px-Flag_of_Bulgaria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1024px-Flag_of_Bulgaria.svg.png',
     SovereignStateFlags: {
-      english: "Bulgaria",
-      spanish: "Bulgaria",
-      ukrainian: "Болгарія",
+      english: 'Bulgaria',
+      spanish: 'Bulgaria',
+      ukrainian: 'Болгарія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#007A33",
-      red: "#DA291C",
-      yellow: "#F4E400",
+      green: '#007A33',
+      red: '#DA291C',
+      yellow: '#F4E400',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1174,23 +1174,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/176px-Flag_of_Bolivia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/176px-Flag_of_Bolivia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1024px-Flag_of_Bolivia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1024px-Flag_of_Bolivia.svg.png',
     SovereignStateFlags: {
-      english: "Bolivia",
-      spanish: "Bolivia",
-      ukrainian: "Болівія",
+      english: 'Bolivia',
+      spanish: 'Bolivia',
+      ukrainian: 'Болівія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#001489",
-      white: "#ffffff",
-      yellow: "#FFCD00",
+      blue: '#001489',
+      white: '#ffffff',
+      yellow: '#FFCD00',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1233,23 +1233,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/240px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/240px-Flag_of_Bosnia_and_Herzegovina.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/800px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/800px-Flag_of_Bosnia_and_Herzegovina.svg.png',
     SovereignStateFlags: {
-      english: "Bosnia and Herzegovina",
-      spanish: "Bosnia y Herzegovina",
-      ukrainian: "Боснія і Герцеговина",
+      english: 'Bosnia and Herzegovina',
+      spanish: 'Bosnia y Herzegovina',
+      ukrainian: 'Боснія і Герцеговина',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#6da9d2",
-      white: "#ffffff",
-      black: "#000000",
+      blue: '#6da9d2',
+      white: '#ffffff',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1292,24 +1292,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/180px-Flag_of_Botswana.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/180px-Flag_of_Botswana.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1280px-Flag_of_Botswana.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1280px-Flag_of_Botswana.svg.png',
     SovereignStateFlags: {
-      english: "Botswana",
-      spanish: "Botsuana",
-      ukrainian: "Ботсвана",
+      english: 'Botswana',
+      spanish: 'Botsuana',
+      ukrainian: 'Ботсвана',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#002776",
-      white: "#ffffff",
-      yellow: "#ffdf00",
-      green: "#009c3b",
+      blue: '#002776',
+      white: '#ffffff',
+      yellow: '#ffdf00',
+      green: '#009c3b',
     },
-    proportions: "7:10",
+    proportions: '7:10',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1352,24 +1352,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/172px-Flag_of_Brazil.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/172px-Flag_of_Brazil.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png',
     SovereignStateFlags: {
-      english: "Brazil",
-      spanish: "Brasil",
-      ukrainian: "Бразилія",
+      english: 'Brazil',
+      spanish: 'Brasil',
+      ukrainian: 'Бразилія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#cf1126",
-      white: "#ffffff",
-      yellow: "#f7e017",
-      black: "#000000",
+      red: '#cf1126',
+      white: '#ffffff',
+      yellow: '#f7e017',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1412,23 +1412,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/240px-Flag_of_Brunei.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/240px-Flag_of_Brunei.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1280px-Flag_of_Brunei.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1280px-Flag_of_Brunei.svg.png',
     SovereignStateFlags: {
-      english: "Brunei",
-      spanish: "Brunéi",
-      ukrainian: "Бруней",
+      english: 'Brunei',
+      spanish: 'Brunéi',
+      ukrainian: 'Бруней',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#EF2B2D",
-      green: "#009E49",
-      yellow: "#FCD116",
+      red: '#EF2B2D',
+      green: '#009E49',
+      yellow: '#FCD116',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1471,23 +1471,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/180px-Flag_of_Burkina_Faso.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/180px-Flag_of_Burkina_Faso.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png',
     SovereignStateFlags: {
-      english: "Burkina Faso",
-      spanish: "Burkina Faso",
-      ukrainian: "Буркіна-Фасо",
+      english: 'Burkina Faso',
+      spanish: 'Burkina Faso',
+      ukrainian: 'Буркіна-Фасо',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#C8102E",
-      green: "#43B02A",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      green: '#43B02A',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1530,23 +1530,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/200px-Flag_of_Burundi.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/200px-Flag_of_Burundi.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1280px-Flag_of_Burundi.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1280px-Flag_of_Burundi.svg.png',
     SovereignStateFlags: {
-      english: "Burundi",
-      spanish: "Burundi",
-      ukrainian: "Бурунді",
+      english: 'Burundi',
+      spanish: 'Burundi',
+      ukrainian: 'Бурунді',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      orange: "#FF4E12",
-      yellow: "#FFCC33",
-      white: "#FFFFFF",
+      orange: '#FF4E12',
+      yellow: '#FFCC33',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1589,25 +1589,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/180px-Flag_of_Bhutan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/180px-Flag_of_Bhutan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1280px-Flag_of_Bhutan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1280px-Flag_of_Bhutan.svg.png',
     SovereignStateFlags: {
-      english: "Bhutan",
-      spanish: "Bután",
-      ukrainian: "Бутан",
+      english: 'Bhutan',
+      spanish: 'Bután',
+      ukrainian: 'Бутан',
     },
   },
 
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#C0102E",
-      yellow: "#FFCD00",
-      black: "#000000",
-      green: "#009A44",
+      red: '#C0102E',
+      yellow: '#FFCD00',
+      black: '#000000',
+      green: '#009A44',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1650,24 +1650,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/200px-Flag_of_Vanuatu.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/200px-Flag_of_Vanuatu.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1280px-Flag_of_Vanuatu.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1280px-Flag_of_Vanuatu.svg.png',
     SovereignStateFlags: {
-      english: "Vanuatu",
-      spanish: "Vanuatu",
-      ukrainian: "Вануату",
+      english: 'Vanuatu',
+      spanish: 'Vanuatu',
+      ukrainian: 'Вануату',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#FF0000",
-      yellow: "#FFE000",
-      white: "#FFFFFF",
-      grey: "#CCCCCC",
+      red: '#FF0000',
+      yellow: '#FFE000',
+      white: '#FFFFFF',
+      grey: '#CCCCCC',
     },
-    proportions: "1:1",
+    proportions: '1:1',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1710,23 +1710,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/120px-Flag_of_the_Vatican_City.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/120px-Flag_of_the_Vatican_City.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/800px-Flag_of_the_Vatican_City.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/800px-Flag_of_the_Vatican_City.svg.png',
     SovereignStateFlags: {
-      english: "Vatican City",
-      spanish: "Ciudad del Vaticano",
-      ukrainian: "Ватикан",
+      english: 'Vatican City',
+      spanish: 'Ciudad del Vaticano',
+      ukrainian: 'Ватикан',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#C8102E",
-      blue: "#012169",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      blue: '#012169',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: true,
       withOneMainColor: false,
@@ -1769,22 +1769,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/200px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/200px-Flag_of_the_United_Kingdom_%283-5%29.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1280px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1280px-Flag_of_the_United_Kingdom_%283-5%29.svg.png',
     SovereignStateFlags: {
-      english: "United Kingdom",
-      spanish: "Reino Unido",
-      ukrainian: "Велика Британія",
+      english: 'United Kingdom',
+      spanish: 'Reino Unido',
+      ukrainian: 'Велика Британія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#C8102E",
-      yellow: "#ffff00",
+      red: '#C8102E',
+      yellow: '#ffff00',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -1827,23 +1827,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/180px-Flag_of_Vietnam.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/180px-Flag_of_Vietnam.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png',
     SovereignStateFlags: {
-      english: "Vietnam",
-      spanish: "Vietnam",
+      english: 'Vietnam',
+      spanish: 'Vietnam',
       ukrainian: "В'єтнам",
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#D90012",
-      blue: "#0033A0",
-      orange: "#F2A800",
+      red: '#D90012',
+      blue: '#0033A0',
+      orange: '#F2A800',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1886,24 +1886,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/240px-Flag_of_Armenia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/240px-Flag_of_Armenia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1280px-Flag_of_Armenia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1280px-Flag_of_Armenia.svg.png',
     SovereignStateFlags: {
-      english: "Armenia",
-      spanish: "Armenia",
-      ukrainian: "Вірменія",
+      english: 'Armenia',
+      spanish: 'Armenia',
+      ukrainian: 'Вірменія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#EF3340",
-      blue: "#003DA5",
-      yellow: "#FCE300",
-      white: "#FFFFFF",
+      red: '#EF3340',
+      blue: '#003DA5',
+      yellow: '#FCE300',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -1946,23 +1946,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/180px-Flag_of_Venezuela.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/180px-Flag_of_Venezuela.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1280px-Flag_of_Venezuela.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1280px-Flag_of_Venezuela.svg.png',
     SovereignStateFlags: {
-      english: "Venezuela",
-      spanish: "Venezuela",
-      ukrainian: "Венесуела",
+      english: 'Venezuela',
+      spanish: 'Venezuela',
+      ukrainian: 'Венесуела',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#009E60",
-      blue: "#4664B2",
-      yellow: "#FCD116",
+      green: '#009E60',
+      blue: '#4664B2',
+      yellow: '#FCD116',
     },
-    proportions: "3:4",
+    proportions: '3:4',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2005,25 +2005,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/160px-Flag_of_Gabon.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/160px-Flag_of_Gabon.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1280px-Flag_of_Gabon.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1280px-Flag_of_Gabon.svg.png',
     SovereignStateFlags: {
-      english: "Gabon",
-      spanish: "Gabón",
-      ukrainian: "Габон",
+      english: 'Gabon',
+      spanish: 'Gabón',
+      ukrainian: 'Габон',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      green: "#016A16",
-      blue: "#00209F",
-      yellow: "#F1B517",
-      red: "#D21034",
-      white: "#FFFFFF",
+      green: '#016A16',
+      blue: '#00209F',
+      yellow: '#F1B517',
+      red: '#D21034',
+      white: '#FFFFFF',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2066,25 +2066,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/200px-Flag_of_Haiti.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/200px-Flag_of_Haiti.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1280px-Flag_of_Haiti.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1280px-Flag_of_Haiti.svg.png',
     SovereignStateFlags: {
-      english: "Haiti",
-      spanish: "Haití",
-      ukrainian: "Гаїті",
+      english: 'Haiti',
+      spanish: 'Haití',
+      ukrainian: 'Гаїті',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      green: "#009739",
-      black: "#000000",
-      yellow: "#FFD100",
-      red: "#EF3340",
-      white: "#FFFFFF",
+      green: '#009739',
+      black: '#000000',
+      yellow: '#FFD100',
+      red: '#EF3340',
+      white: '#FFFFFF',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2127,24 +2127,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/200px-Flag_of_Guyana.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/200px-Flag_of_Guyana.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1280px-Flag_of_Guyana.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1280px-Flag_of_Guyana.svg.png',
     SovereignStateFlags: {
-      english: "Guyana",
-      spanish: "Guyana",
-      ukrainian: "Гаяна",
+      english: 'Guyana',
+      spanish: 'Guyana',
+      ukrainian: 'Гаяна',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#3A7728",
-      blue: "#0C1C8C",
-      red: "#CE1126",
-      white: "#FFFFFF",
+      green: '#3A7728',
+      blue: '#0C1C8C',
+      red: '#CE1126',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2187,24 +2187,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/180px-Flag_of_The_Gambia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/180px-Flag_of_The_Gambia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1280px-Flag_of_The_Gambia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1280px-Flag_of_The_Gambia.svg.png',
     SovereignStateFlags: {
-      english: "The Gambia",
-      spanish: "Gambia",
-      ukrainian: "Гамбія",
+      english: 'The Gambia',
+      spanish: 'Gambia',
+      ukrainian: 'Гамбія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#006B3D",
-      yellow: "#FCD20F",
-      red: "#CF0921",
-      black: "#000000",
+      green: '#006B3D',
+      yellow: '#FCD20F',
+      red: '#CF0921',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2247,22 +2247,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/180px-Flag_of_Ghana.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/180px-Flag_of_Ghana.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1280px-Flag_of_Ghana.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1280px-Flag_of_Ghana.svg.png',
     SovereignStateFlags: {
-      english: "Ghana",
-      spanish: "Ghana",
-      ukrainian: "Гана",
+      english: 'Ghana',
+      spanish: 'Ghana',
+      ukrainian: 'Гана',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#4997D0",
-      white: "#FFFFFF",
+      blue: '#4997D0',
+      white: '#FFFFFF',
     },
-    proportions: "5:8",
+    proportions: '5:8',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2305,23 +2305,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/192px-Flag_of_Guatemala.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/192px-Flag_of_Guatemala.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1280px-Flag_of_Guatemala.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1280px-Flag_of_Guatemala.svg.png',
     SovereignStateFlags: {
-      english: "Guatemala",
-      spanish: "Guatemala",
-      ukrainian: "Гватемала",
+      english: 'Guatemala',
+      spanish: 'Guatemala',
+      ukrainian: 'Гватемала',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#CE1126",
-      yellow: "#FCD116",
-      green: "#009460",
+      red: '#CE1126',
+      yellow: '#FCD116',
+      green: '#009460',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2364,24 +2364,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/180px-Flag_of_Guinea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/180px-Flag_of_Guinea.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1280px-Flag_of_Guinea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1280px-Flag_of_Guinea.svg.png',
     SovereignStateFlags: {
-      english: "Guinea",
-      spanish: "Guinea",
-      ukrainian: "Гвінея",
+      english: 'Guinea',
+      spanish: 'Guinea',
+      ukrainian: 'Гвінея',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#CE1126",
-      yellow: "#FCD116",
-      green: "#009E49",
-      black: "#000000",
+      red: '#CE1126',
+      yellow: '#FCD116',
+      green: '#009E49',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2424,22 +2424,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/240px-Flag_of_Guinea-Bissau.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/240px-Flag_of_Guinea-Bissau.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1280px-Flag_of_Guinea-Bissau.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1280px-Flag_of_Guinea-Bissau.svg.png',
     SovereignStateFlags: {
-      english: "Guinea-Bissau",
-      spanish: "Guinea-Bisáu",
-      ukrainian: "Гвінея-Бісау",
+      english: 'Guinea-Bissau',
+      spanish: 'Guinea-Bisáu',
+      ukrainian: 'Гвінея-Бісау',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#00bce4",
-      white: "#FFFFFF",
+      blue: '#00bce4',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2482,23 +2482,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/240px-Flag_of_Honduras.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/240px-Flag_of_Honduras.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1280px-Flag_of_Honduras.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1280px-Flag_of_Honduras.svg.png',
     SovereignStateFlags: {
-      english: "Honduras",
-      spanish: "Honduras",
-      ukrainian: "Гондурас",
+      english: 'Honduras',
+      spanish: 'Honduras',
+      ukrainian: 'Гондурас',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#EF3340",
-      yellow: "#FFD100",
-      green: "#009739",
+      red: '#EF3340',
+      yellow: '#FFD100',
+      green: '#009739',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2541,22 +2541,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/200px-Flag_of_Grenada.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/200px-Flag_of_Grenada.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1280px-Flag_of_Grenada.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1280px-Flag_of_Grenada.svg.png',
     SovereignStateFlags: {
-      english: "Grenada",
-      spanish: "Granada (país)",
-      ukrainian: "Гренада",
+      english: 'Grenada',
+      spanish: 'Granada (país)',
+      ukrainian: 'Гренада',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      cyan: "#001489",
-      white: "#FFFFFF",
+      cyan: '#001489',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2599,22 +2599,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/180px-Flag_of_Greece.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/180px-Flag_of_Greece.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png',
     SovereignStateFlags: {
-      english: "Greece",
-      spanish: "Grecia",
-      ukrainian: "Греція",
+      english: 'Greece',
+      spanish: 'Grecia',
+      ukrainian: 'Греція',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#DA291C",
-      white: "#FFFFFF",
+      red: '#DA291C',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2657,22 +2657,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/180px-Flag_of_Georgia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/180px-Flag_of_Georgia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1280px-Flag_of_Georgia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1280px-Flag_of_Georgia.svg.png',
     SovereignStateFlags: {
-      english: "Georgia",
-      spanish: "Georgia",
-      ukrainian: "Грузія",
+      english: 'Georgia',
+      spanish: 'Georgia',
+      ukrainian: 'Грузія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#C8102E",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      white: '#FFFFFF',
     },
-    proportions: "28:37",
+    proportions: '28:37',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2715,24 +2715,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/159px-Flag_of_Denmark.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/159px-Flag_of_Denmark.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1024px-Flag_of_Denmark.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1024px-Flag_of_Denmark.svg.png',
     SovereignStateFlags: {
-      english: "Denmark",
-      spanish: "Dinamarca",
-      ukrainian: "Данія",
+      english: 'Denmark',
+      spanish: 'Dinamarca',
+      ukrainian: 'Данія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#6AB2E7",
-      green: "#12AD2B",
-      red: "#D7141A",
-      white: "#FFFFFF",
+      blue: '#6AB2E7',
+      green: '#12AD2B',
+      red: '#D7141A',
+      white: '#FFFFFF',
     },
-    proportions: "4:7",
+    proportions: '4:7',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2775,26 +2775,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1280px-Flag_of_Djibouti.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1280px-Flag_of_Djibouti.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/180px-Flag_of_Djibouti.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/180px-Flag_of_Djibouti.svg.png',
     SovereignStateFlags: {
-      english: "Djibouti",
-      spanish: "Yibuti",
-      ukrainian: "Джибуті",
+      english: 'Djibouti',
+      spanish: 'Yibuti',
+      ukrainian: 'Джибуті',
     },
   },
   {
     numberOfColors: 6,
     colorsUsed: {
-      yellow: "#FFCD00",
-      green: "#009A44",
-      red: "#D7141A",
-      black: "#000000",
-      puprple: "#981E97",
-      white: "#FFFFFF",
+      yellow: '#FFCD00',
+      green: '#009A44',
+      red: '#D7141A',
+      black: '#000000',
+      puprple: '#981E97',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2837,23 +2837,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/240px-Flag_of_Dominica.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/240px-Flag_of_Dominica.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1280px-Flag_of_Dominica.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1280px-Flag_of_Dominica.svg.png',
     SovereignStateFlags: {
-      english: "Dominica",
-      spanish: "Dominica",
-      ukrainian: "Домініка",
+      english: 'Dominica',
+      spanish: 'Dominica',
+      ukrainian: 'Домініка',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#002D62",
-      red: "#CE1126",
-      white: "#FFFFFF",
+      blue: '#002D62',
+      red: '#CE1126',
+      white: '#FFFFFF',
     },
-    proportions: "5:8",
+    proportions: '5:8',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2896,23 +2896,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/180px-Flag_of_the_Dominican_Republic.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/180px-Flag_of_the_Dominican_Republic.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png',
     SovereignStateFlags: {
-      english: "Dominican Republic",
-      spanish: "República Dominicana",
-      ukrainian: "Домініканська Республіка",
+      english: 'Dominican Republic',
+      spanish: 'República Dominicana',
+      ukrainian: 'Домініканська Республіка',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#0072CE",
-      red: "#EF3340",
-      yellow: "#FFD100",
+      blue: '#0072CE',
+      red: '#EF3340',
+      yellow: '#FFD100',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -2955,24 +2955,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/180px-Flag_of_Ecuador.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/180px-Flag_of_Ecuador.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1280px-Flag_of_Ecuador.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1280px-Flag_of_Ecuador.svg.png',
     SovereignStateFlags: {
-      english: "Ecuador",
-      spanish: "Ecuador",
-      ukrainian: "Еквадор",
+      english: 'Ecuador',
+      spanish: 'Ecuador',
+      ukrainian: 'Еквадор',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#0073CE",
-      red: "#E32118",
-      green: "#3E9A00",
-      white: "#FFFFFF",
+      blue: '#0073CE',
+      red: '#E32118',
+      green: '#3E9A00',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3015,24 +3015,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/180px-Flag_of_Equatorial_Guinea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/180px-Flag_of_Equatorial_Guinea.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1280px-Flag_of_Equatorial_Guinea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1280px-Flag_of_Equatorial_Guinea.svg.png',
     SovereignStateFlags: {
-      english: "Equatorial Guinea",
-      spanish: "Guinea Ecuatorial",
-      ukrainian: "Екваторіальна Гвінея",
+      english: 'Equatorial Guinea',
+      spanish: 'Guinea Ecuatorial',
+      ukrainian: 'Екваторіальна Гвінея',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#3C8BDC",
-      red: "#EB0433",
-      green: "#0BAC24",
-      yellow: "#FBC724",
+      blue: '#3C8BDC',
+      red: '#EB0433',
+      green: '#0BAC24',
+      yellow: '#FBC724',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3075,23 +3075,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/240px-Flag_of_Eritrea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/240px-Flag_of_Eritrea.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1280px-Flag_of_Eritrea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1280px-Flag_of_Eritrea.svg.png',
     SovereignStateFlags: {
-      english: "Eritrea",
-      spanish: "Eritrea",
-      ukrainian: "Еритрея",
+      english: 'Eritrea',
+      spanish: 'Eritrea',
+      ukrainian: 'Еритрея',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#0072CE",
-      black: "#000000",
-      white: "#FFFFFF",
+      blue: '#0072CE',
+      black: '#000000',
+      white: '#FFFFFF',
     },
-    proportions: "7:11",
+    proportions: '7:11',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3134,24 +3134,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/189px-Flag_of_Estonia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/189px-Flag_of_Estonia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1280px-Flag_of_Estonia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1280px-Flag_of_Estonia.svg.png',
     SovereignStateFlags: {
-      english: "Estonia",
-      spanish: "Estonia",
-      ukrainian: "Естонія",
+      english: 'Estonia',
+      spanish: 'Estonia',
+      ukrainian: 'Естонія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#009A44",
-      yellow: "#FEDD00",
-      red: "#EF3340",
-      blue: "#0645B1",
+      green: '#009A44',
+      yellow: '#FEDD00',
+      red: '#EF3340',
+      blue: '#0645B1',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3194,24 +3194,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/240px-Flag_of_Ethiopia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/240px-Flag_of_Ethiopia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1280px-Flag_of_Ethiopia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1280px-Flag_of_Ethiopia.svg.png',
     SovereignStateFlags: {
-      english: "Ethiopia",
-      spanish: "Etiopía",
-      ukrainian: "Ефіопія",
+      english: 'Ethiopia',
+      spanish: 'Etiopía',
+      ukrainian: 'Ефіопія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#ce1126",
-      white: "#FFFFFF",
-      black: "#000000",
-      gold: "#c09300",
+      red: '#ce1126',
+      white: '#FFFFFF',
+      black: '#000000',
+      gold: '#c09300',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3254,23 +3254,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/180px-Flag_of_Egypt.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/180px-Flag_of_Egypt.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png',
     SovereignStateFlags: {
-      english: "Egypt",
-      spanish: "Egipto",
-      ukrainian: "Єгипет",
+      english: 'Egypt',
+      spanish: 'Egipto',
+      ukrainian: 'Єгипет',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#ce1126",
-      white: "#FFFFFF",
-      black: "#000000",
+      red: '#ce1126',
+      white: '#FFFFFF',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3313,24 +3313,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/180px-Flag_of_Yemen.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/180px-Flag_of_Yemen.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png',
     SovereignStateFlags: {
-      english: "Yemen",
-      spanish: "Yemen",
-      ukrainian: "Ємен",
+      english: 'Yemen',
+      spanish: 'Yemen',
+      ukrainian: 'Ємен',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#009E49",
-      red: "#EF3340",
-      zambrano: "#FCAD56",
-      black: "#000000",
+      green: '#009E49',
+      red: '#EF3340',
+      zambrano: '#FCAD56',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -3373,25 +3373,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/180px-Flag_of_Zambia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/180px-Flag_of_Zambia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1280px-Flag_of_Yemen.svg.png',
     SovereignStateFlags: {
-      english: "Zambia",
-      spanish: "Zambia",
-      ukrainian: "Замбія",
+      english: 'Zambia',
+      spanish: 'Zambia',
+      ukrainian: 'Замбія',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      green: "#009739",
-      red: "#EF3340",
-      yellow: "#FCE300",
-      black: "#000000",
-      white: "FFFFFF",
+      green: '#009739',
+      red: '#EF3340',
+      yellow: '#FCE300',
+      black: '#000000',
+      white: 'FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3434,22 +3434,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/240px-Flag_of_Zimbabwe.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/240px-Flag_of_Zimbabwe.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1280px-Flag_of_Zimbabwe.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1280px-Flag_of_Zimbabwe.svg.png',
     SovereignStateFlags: {
-      english: "Zimbabwe",
-      spanish: "Zimbabue",
-      ukrainian: "Зімбабве",
+      english: 'Zimbabwe',
+      spanish: 'Zimbabue',
+      ukrainian: 'Зімбабве',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#0038b8",
-      white: "FFFFFF",
+      blue: '#0038b8',
+      white: 'FFFFFF',
     },
-    proportions: "8:11",
+    proportions: '8:11',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3492,24 +3492,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/165px-Flag_of_Israel.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/165px-Flag_of_Israel.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png',
     SovereignStateFlags: {
-      english: "Israel",
-      spanish: "Israel",
-      ukrainian: "Ізраїль",
+      english: 'Israel',
+      spanish: 'Israel',
+      ukrainian: 'Ізраїль',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      saffron: "#FF671F",
-      white: "FFFFFF",
-      green: "#046A38",
-      blue: "06038D",
+      saffron: '#FF671F',
+      white: 'FFFFFF',
+      green: '#046A38',
+      blue: '06038D',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3552,22 +3552,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/180px-Flag_of_India.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/180px-Flag_of_India.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png',
     SovereignStateFlags: {
-      english: "India",
-      spanish: "India",
-      ukrainian: "Індія",
+      english: 'India',
+      spanish: 'India',
+      ukrainian: 'Індія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#ff0000",
-      white: "FFFFFF",
+      red: '#ff0000',
+      white: 'FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3610,24 +3610,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/180px-Flag_of_Indonesia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/180px-Flag_of_Indonesia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png',
     SovereignStateFlags: {
-      english: "Indonesia",
-      spanish: "Indonesia",
-      ukrainian: "Індонезія",
+      english: 'Indonesia',
+      spanish: 'Indonesia',
+      ukrainian: 'Індонезія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#cd1125",
-      white: "#FFFFFF",
-      green: "#017b3d",
-      black: "#000000",
+      red: '#cd1125',
+      white: '#FFFFFF',
+      green: '#017b3d',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3670,23 +3670,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/180px-Flag_of_Iraq.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/180px-Flag_of_Iraq.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1280px-Flag_of_Iraq.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1280px-Flag_of_Iraq.svg.png',
     SovereignStateFlags: {
-      english: "Iraq",
-      spanish: "Irak",
-      ukrainian: "Ірак",
+      english: 'Iraq',
+      spanish: 'Irak',
+      ukrainian: 'Ірак',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#da0000",
-      white: "FFFFFF",
-      green: "#239f40",
+      red: '#da0000',
+      white: 'FFFFFF',
+      green: '#239f40',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3729,23 +3729,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/210px-Flag_of_Iran.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/210px-Flag_of_Iran.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png',
     SovereignStateFlags: {
-      english: "Iran",
-      spanish: "Irán",
-      ukrainian: "Іран",
+      english: 'Iran',
+      spanish: 'Irán',
+      ukrainian: 'Іран',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      orange: "#FF823D",
-      white: "FFFFFF",
-      green: "#009A63",
+      orange: '#FF823D',
+      white: 'FFFFFF',
+      green: '#009A63',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3788,23 +3788,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/240px-Flag_of_Ireland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/240px-Flag_of_Ireland.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1280px-Flag_of_Ireland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1280px-Flag_of_Ireland.svg.png',
     SovereignStateFlags: {
-      english: "Republic of Ireland",
-      spanish: "Irlanda",
-      ukrainian: "Ірландія",
+      english: 'Republic of Ireland',
+      spanish: 'Irlanda',
+      ukrainian: 'Ірландія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#02529C",
-      white: "FFFFFF",
-      red: "#DC1E35",
+      blue: '#02529C',
+      white: 'FFFFFF',
+      red: '#DC1E35',
     },
-    proportions: "18:25",
+    proportions: '18:25',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3847,22 +3847,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/167px-Flag_of_Iceland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/167px-Flag_of_Iceland.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png',
     SovereignStateFlags: {
-      english: "Iceland",
-      spanish: "Islandia",
-      ukrainian: "Ісландія",
+      english: 'Iceland',
+      spanish: 'Islandia',
+      ukrainian: 'Ісландія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      yellow: "#F1BF00",
-      red: "#AA151B",
+      yellow: '#F1BF00',
+      red: '#AA151B',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3905,23 +3905,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/180px-Flag_of_Spain.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/180px-Flag_of_Spain.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png',
     SovereignStateFlags: {
-      english: "Spain",
-      spanish: "España",
-      ukrainian: "Іспанія",
+      english: 'Spain',
+      spanish: 'España',
+      ukrainian: 'Іспанія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#008C45",
-      white: "#F4F9FF",
-      red: "#CD212A",
+      green: '#008C45',
+      white: '#F4F9FF',
+      red: '#CD212A',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -3964,25 +3964,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/180px-Flag_of_Italy.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/180px-Flag_of_Italy.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png',
     SovereignStateFlags: {
-      english: "Italy",
-      spanish: "Italia",
-      ukrainian: "Італія",
+      english: 'Italy',
+      spanish: 'Italia',
+      ukrainian: 'Італія',
     },
   },
 
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#007a3d",
-      white: "#FFFFFF",
-      red: "#ce1126",
-      black: "#000000",
+      green: '#007a3d',
+      white: '#FFFFFF',
+      red: '#ce1126',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4025,25 +4025,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/240px-Flag_of_Jordan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/240px-Flag_of_Jordan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1280px-Flag_of_Jordan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1280px-Flag_of_Jordan.svg.png',
     SovereignStateFlags: {
-      english: "Jordan",
-      spanish: "Jordania",
-      ukrainian: "Йорданія",
+      english: 'Jordan',
+      spanish: 'Jordania',
+      ukrainian: 'Йорданія',
     },
   },
 
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#003893",
-      white: "#FFFFFF",
-      red: "#CF2027",
-      yellow: "#F7D116",
+      blue: '#003893',
+      white: '#FFFFFF',
+      red: '#CF2027',
+      yellow: '#F7D116',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4086,22 +4086,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/204px-Flag_of_Cape_Verde.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/204px-Flag_of_Cape_Verde.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1280px-Flag_of_Cape_Verde.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1280px-Flag_of_Cape_Verde.svg.png',
     SovereignStateFlags: {
-      english: "Cape Verde",
-      spanish: "Cabo Verde",
-      ukrainian: "Кабо-Верде",
+      english: 'Cape Verde',
+      spanish: 'Cabo Verde',
+      ukrainian: 'Кабо-Верде',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      turquoise: "#00ABC2",
-      gold: "#FFEC2D",
+      turquoise: '#00ABC2',
+      gold: '#FFEC2D',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -4144,23 +4144,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/240px-Flag_of_Kazakhstan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/240px-Flag_of_Kazakhstan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png',
     SovereignStateFlags: {
-      english: "Kazakhstan",
-      spanish: "Kazajistán",
-      ukrainian: "Казахстан",
+      english: 'Kazakhstan',
+      spanish: 'Kazajistán',
+      ukrainian: 'Казахстан',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#032ea1",
-      red: "#e00025",
-      white: "#FFFFFF",
+      blue: '#032ea1',
+      red: '#e00025',
+      white: '#FFFFFF',
     },
-    proportions: "16:25",
+    proportions: '16:25',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4203,23 +4203,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/188px-Flag_of_Cambodia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/188px-Flag_of_Cambodia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1280px-Flag_of_Cambodia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1280px-Flag_of_Cambodia.svg.png',
     SovereignStateFlags: {
-      english: "Cambodia",
-      spanish: "Camboya",
-      ukrainian: "Камбоджа",
+      english: 'Cambodia',
+      spanish: 'Camboya',
+      ukrainian: 'Камбоджа',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#007a5e",
-      red: "#ce1126",
-      yellow: "#fcd116",
+      green: '#007a5e',
+      red: '#ce1126',
+      yellow: '#fcd116',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4262,22 +4262,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/180px-Flag_of_Cameroon.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/180px-Flag_of_Cameroon.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1280px-Flag_of_Cameroon.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1280px-Flag_of_Cameroon.svg.png',
     SovereignStateFlags: {
-      english: "Cameroon",
-      spanish: "Camerún",
-      ukrainian: "Камерун",
+      english: 'Cameroon',
+      spanish: 'Camerún',
+      ukrainian: 'Камерун',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#D80621",
-      white: "#FFFFFF",
+      red: '#D80621',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4320,22 +4320,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/240px-Flag_of_Canada.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/240px-Flag_of_Canada.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png',
     SovereignStateFlags: {
-      english: "Canada",
-      spanish: "Canadá",
-      ukrainian: "Канада",
+      english: 'Canada',
+      spanish: 'Canadá',
+      ukrainian: 'Канада',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      maroon: "#8A1538",
-      white: "#FFFFFF",
+      maroon: '#8A1538',
+      white: '#FFFFFF',
     },
-    proportions: "11:28",
+    proportions: '11:28',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4378,24 +4378,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/306px-Flag_of_Qatar.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/306px-Flag_of_Qatar.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1280px-Flag_of_Qatar.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1280px-Flag_of_Qatar.svg.png',
     SovereignStateFlags: {
-      english: "Qatar",
-      spanish: "Catar",
-      ukrainian: "Катар",
+      english: 'Qatar',
+      spanish: 'Catar',
+      ukrainian: 'Катар',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      black: "#000000",
-      white: "#FFFFFF",
-      red: "#BB0000",
-      green: "#006600",
+      black: '#000000',
+      white: '#FFFFFF',
+      red: '#BB0000',
+      green: '#006600',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4438,23 +4438,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/180px-Flag_of_Kenya.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/180px-Flag_of_Kenya.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png',
     SovereignStateFlags: {
-      english: "Kenya",
-      spanish: "Kenia",
-      ukrainian: "Кенія",
+      english: 'Kenya',
+      spanish: 'Kenia',
+      ukrainian: 'Кенія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      orange: "#d57800",
-      green: "#4e5b31",
-      white: "#FFFFFF",
+      orange: '#d57800',
+      green: '#4e5b31',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -4497,22 +4497,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/180px-Flag_of_Cyprus.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/180px-Flag_of_Cyprus.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1280px-Flag_of_Cyprus.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1280px-Flag_of_Cyprus.svg.png',
     SovereignStateFlags: {
-      english: "Cyprus",
-      spanish: "Chipre",
-      ukrainian: "Кіпр",
+      english: 'Cyprus',
+      spanish: 'Chipre',
+      ukrainian: 'Кіпр',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#FF0000",
-      yellow: "#FFFF00",
+      red: '#FF0000',
+      yellow: '#FFFF00',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -4555,24 +4555,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/200px-Flag_of_Kyrgyzstan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/200px-Flag_of_Kyrgyzstan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png',
     SovereignStateFlags: {
-      english: "Kyrgyzstan",
-      spanish: "Kirguistán",
-      ukrainian: "Киргизстан",
+      english: 'Kyrgyzstan',
+      spanish: 'Kirguistán',
+      ukrainian: 'Киргизстан',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#EF3340",
-      yellow: "#FFD100",
-      white: "#FFFFFF",
-      blue: "#0032A0",
+      red: '#EF3340',
+      yellow: '#FFD100',
+      white: '#FFFFFF',
+      blue: '#0032A0',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4615,22 +4615,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/240px-Flag_of_Kiribati.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/240px-Flag_of_Kiribati.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1280px-Flag_of_Kiribati.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1280px-Flag_of_Kiribati.svg.png',
     SovereignStateFlags: {
-      english: "Kiribati",
-      spanish: "Kiribati",
-      ukrainian: "Кірибаті",
+      english: 'Kiribati',
+      spanish: 'Kiribati',
+      ukrainian: 'Кірибаті',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#EE1C25",
-      yellow: "#FFFF00",
+      red: '#EE1C25',
+      yellow: '#FFFF00',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -4673,23 +4673,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/180px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/180px-Flag_of_the_People%27s_Republic_of_China.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png',
     SovereignStateFlags: {
-      english: "China",
-      spanish: "República Popular China",
-      ukrainian: "Китайська Народна Республіка",
+      english: 'China',
+      spanish: 'República Popular China',
+      ukrainian: 'Китайська Народна Республіка',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      yellow: "#FCD116",
-      blue: "#003893",
-      red: "#CE1126",
+      yellow: '#FCD116',
+      blue: '#003893',
+      red: '#CE1126',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4732,25 +4732,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/180px-Flag_of_Colombia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/180px-Flag_of_Colombia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1280px-Flag_of_Colombia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1280px-Flag_of_Colombia.svg.png',
     SovereignStateFlags: {
-      english: "Colombia",
-      spanish: "Colombia",
-      ukrainian: "Колумбія",
+      english: 'Colombia',
+      spanish: 'Colombia',
+      ukrainian: 'Колумбія',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      green: "009639",
-      yellow: "#FFD100",
-      white: "#FFFFFF",
-      red: "#EF3340",
-      blue: "#003DA5",
+      green: '009639',
+      yellow: '#FFD100',
+      white: '#FFFFFF',
+      red: '#EF3340',
+      blue: '#003DA5',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4793,23 +4793,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/200px-Flag_of_the_Comoros.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/200px-Flag_of_the_Comoros.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1280px-Flag_of_the_Comoros.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1280px-Flag_of_the_Comoros.svg.png',
     SovereignStateFlags: {
-      english: "Comoros",
-      spanish: "Comoras",
-      ukrainian: "Комори",
+      english: 'Comoros',
+      spanish: 'Comoras',
+      ukrainian: 'Комори',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#007fff",
-      red: "#ce1021",
-      yellow: "#f7d618",
+      blue: '#007fff',
+      red: '#ce1021',
+      yellow: '#f7d618',
     },
-    proportions: "3:4",
+    proportions: '3:4',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -4852,23 +4852,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/160px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/160px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png',
     SovereignStateFlags: {
-      english: "Democratic Republic of the Congo",
-      spanish: "República Democrática del Congo",
-      ukrainian: "Демократична Республіка Конго",
+      english: 'Democratic Republic of the Congo',
+      spanish: 'República Democrática del Congo',
+      ukrainian: 'Демократична Республіка Конго',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#009543",
-      yellow: "#FBDE4A",
-      red: "#DC241F",
+      green: '#009543',
+      yellow: '#FBDE4A',
+      red: '#DC241F',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4911,23 +4911,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/180px-Flag_of_the_Republic_of_the_Congo.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/180px-Flag_of_the_Republic_of_the_Congo.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1280px-Flag_of_the_Republic_of_the_Congo.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1280px-Flag_of_the_Republic_of_the_Congo.svg.png',
     SovereignStateFlags: {
-      english: "Republic of the Congo",
-      spanish: "República del Congo",
-      ukrainian: "Республіка Конго",
+      english: 'Republic of the Congo',
+      spanish: 'República del Congo',
+      ukrainian: 'Республіка Конго',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#024FA2",
-      white: "#FFFFFF",
-      red: "#ED1C27",
+      blue: '#024FA2',
+      white: '#FFFFFF',
+      red: '#ED1C27',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -4970,24 +4970,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/240px-Flag_of_North_Korea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/240px-Flag_of_North_Korea.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1280px-Flag_of_North_Korea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1280px-Flag_of_North_Korea.svg.png',
     SovereignStateFlags: {
-      english: "North Korea",
-      spanish: "Corea del Norte",
-      ukrainian: "Корейська Народно-Демократична Республіка",
+      english: 'North Korea',
+      spanish: 'Corea del Norte',
+      ukrainian: 'Корейська Народно-Демократична Республіка',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      white: "#FFFFFF",
-      red: "#CD2E3A",
-      blue: "#0047A0",
-      black: "#000000",
+      white: '#FFFFFF',
+      red: '#CD2E3A',
+      blue: '#0047A0',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -5030,23 +5030,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/180px-Flag_of_South_Korea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/180px-Flag_of_South_Korea.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png',
     SovereignStateFlags: {
-      english: "South Korea",
-      spanish: "Corea del Sur",
-      ukrainian: "Республіка Корея",
+      english: 'South Korea',
+      spanish: 'Corea del Sur',
+      ukrainian: 'Республіка Корея',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      red: "#DA291C",
-      blue: "#001489",
+      white: '#FFFFFF',
+      red: '#DA291C',
+      blue: '#001489',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5089,23 +5089,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/200px-Flag_of_Costa_Rica.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/200px-Flag_of_Costa_Rica.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1280px-Flag_of_Costa_Rica.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1280px-Flag_of_Costa_Rica.svg.png',
     SovereignStateFlags: {
-      english: "Costa Rica",
-      spanish: "Costa Rica",
-      ukrainian: "Коста-Рика",
+      english: 'Costa Rica',
+      spanish: 'Costa Rica',
+      ukrainian: 'Коста-Рика',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      orange: "#FF8200",
-      green: "#009A44",
+      white: '#FFFFFF',
+      orange: '#FF8200',
+      green: '#009A44',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5148,23 +5148,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/180px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/180px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png',
     SovereignStateFlags: {
-      english: "Ivory Coast",
-      spanish: "Costa de Marfil",
+      english: 'Ivory Coast',
+      spanish: 'Costa de Marfil',
       ukrainian: "Кот-д'Івуар",
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#002590",
-      red: "#CC0D0D",
+      white: '#FFFFFF',
+      blue: '#002590',
+      red: '#CC0D0D',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5207,24 +5207,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/240px-Flag_of_Cuba.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/240px-Flag_of_Cuba.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1280px-Flag_of_Cuba.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1280px-Flag_of_Cuba.svg.png',
     SovereignStateFlags: {
-      english: "Cuba",
-      spanish: "Cuba",
-      ukrainian: "Куба",
+      english: 'Cuba',
+      spanish: 'Cuba',
+      ukrainian: 'Куба',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      white: "#FFFFFF",
-      green: "#007A3D",
-      red: "#CE1126",
-      black: "#000000",
+      white: '#FFFFFF',
+      green: '#007A3D',
+      red: '#CE1126',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5267,24 +5267,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/240px-Flag_of_Kuwait.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/240px-Flag_of_Kuwait.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1280px-Flag_of_Kuwait.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1280px-Flag_of_Kuwait.svg.png',
     SovereignStateFlags: {
-      english: "Kuwait",
-      spanish: "Kuwait",
-      ukrainian: "Кувейт",
+      english: 'Kuwait',
+      spanish: 'Kuwait',
+      ukrainian: 'Кувейт',
     },
   },
 
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#002868",
-      red: "#CE1126",
+      white: '#FFFFFF',
+      blue: '#002868',
+      red: '#CE1126',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5327,22 +5327,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/180px-Flag_of_Laos.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/180px-Flag_of_Laos.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1280px-Flag_of_Laos.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1280px-Flag_of_Laos.svg.png',
     SovereignStateFlags: {
-      english: "Laos",
-      spanish: "Laos",
-      ukrainian: "Лаос",
+      english: 'Laos',
+      spanish: 'Laos',
+      ukrainian: 'Лаос',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      white: "#FFFFFF",
-      carmine: "#CE1126",
+      white: '#FFFFFF',
+      carmine: '#CE1126',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5385,24 +5385,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/240px-Flag_of_Latvia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/240px-Flag_of_Latvia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1280px-Flag_of_Latvia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1280px-Flag_of_Latvia.svg.png',
     SovereignStateFlags: {
-      english: "Latvia",
-      spanish: "Letonia",
-      ukrainian: "Латвія",
+      english: 'Latvia',
+      spanish: 'Letonia',
+      ukrainian: 'Латвія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#00209F",
-      white: "#FFFFFF",
-      green: "#009543",
-      black: "#000000",
+      blue: '#00209F',
+      white: '#FFFFFF',
+      green: '#009543',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5445,23 +5445,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/180px-Flag_of_Lesotho.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/180px-Flag_of_Lesotho.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1280px-Flag_of_Lesotho.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1280px-Flag_of_Lesotho.svg.png',
     SovereignStateFlags: {
-      english: "Lesotho",
-      spanish: "Lesoto",
-      ukrainian: "Лесото",
+      english: 'Lesotho',
+      spanish: 'Lesoto',
+      ukrainian: 'Лесото',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      yellow: "#FDB913",
-      green: "#006A44",
-      red: "#C1272D",
+      yellow: '#FDB913',
+      green: '#006A44',
+      red: '#C1272D',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5504,23 +5504,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/200px-Flag_of_Lithuania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/200px-Flag_of_Lithuania.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1280px-Flag_of_Lithuania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1280px-Flag_of_Lithuania.svg.png',
     SovereignStateFlags: {
-      english: "Lithuania",
-      spanish: "Lituania",
-      ukrainian: "Литва",
+      english: 'Lithuania',
+      spanish: 'Lituania',
+      ukrainian: 'Литва',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#00205B",
-      white: "#FFFFFF",
-      red: "#EF3340",
+      blue: '#00205B',
+      white: '#FFFFFF',
+      red: '#EF3340',
     },
-    proportions: "10:19",
+    proportions: '10:19',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5563,23 +5563,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/228px-Flag_of_Liberia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/228px-Flag_of_Liberia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1280px-Flag_of_Liberia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1280px-Flag_of_Liberia.svg.png',
     SovereignStateFlags: {
-      english: "Liberia",
-      spanish: "Liberia",
-      ukrainian: "Ліберія",
+      english: 'Liberia',
+      spanish: 'Liberia',
+      ukrainian: 'Ліберія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#EE161F",
-      white: "#FFFFFF",
-      green: "#00A850",
+      red: '#EE161F',
+      white: '#FFFFFF',
+      green: '#00A850',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5622,24 +5622,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/180px-Flag_of_Lebanon.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/180px-Flag_of_Lebanon.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1280px-Flag_of_Lebanon.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1280px-Flag_of_Lebanon.svg.png',
     SovereignStateFlags: {
-      english: "Lebanon",
-      spanish: "Líbano",
-      ukrainian: "Ліван",
+      english: 'Lebanon',
+      spanish: 'Líbano',
+      ukrainian: 'Ліван',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#e70013",
-      white: "#FFFFFF",
-      green: "#239e46",
-      black: "#000000",
+      red: '#e70013',
+      white: '#FFFFFF',
+      green: '#239e46',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5682,24 +5682,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/240px-Flag_of_Libya.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/240px-Flag_of_Libya.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1280px-Flag_of_Libya.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1280px-Flag_of_Libya.svg.png',
     SovereignStateFlags: {
-      english: "Libya",
-      spanish: "Libia",
-      ukrainian: "Лівія",
+      english: 'Libya',
+      spanish: 'Libia',
+      ukrainian: 'Лівія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#E4002B",
-      yellow: "#FFD100",
-      blue: "#003DA5",
-      black: "#000000",
+      red: '#E4002B',
+      yellow: '#FFD100',
+      blue: '#003DA5',
+      black: '#000000',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5742,23 +5742,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/200px-Flag_of_Liechtenstein.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/200px-Flag_of_Liechtenstein.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1280px-Flag_of_Liechtenstein.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1280px-Flag_of_Liechtenstein.svg.png',
     SovereignStateFlags: {
-      english: "Liechtenstein",
-      spanish: "Liechtenstein",
-      ukrainian: "Ліхтенштейн",
+      english: 'Liechtenstein',
+      spanish: 'Liechtenstein',
+      ukrainian: 'Ліхтенштейн',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#EA141D",
-      white: "#FFFFFF",
-      blue: "#51ADDA",
+      red: '#EA141D',
+      white: '#FFFFFF',
+      blue: '#51ADDA',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5801,25 +5801,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/200px-Flag_of_Luxembourg.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/200px-Flag_of_Luxembourg.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1280px-Flag_of_Luxembourg.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1280px-Flag_of_Luxembourg.svg.png',
     SovereignStateFlags: {
-      english: "Luxembourg",
-      spanish: "Luxemburgo",
-      ukrainian: "Люксембург",
+      english: 'Luxembourg',
+      spanish: 'Luxemburgo',
+      ukrainian: 'Люксембург',
     },
   },
 
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#EB2436",
-      yellow: "#FFD600",
-      blue: "#131A6D",
-      green: "#00A650",
+      red: '#EB2436',
+      yellow: '#FFD600',
+      blue: '#131A6D',
+      green: '#00A650',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5862,23 +5862,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/180px-Flag_of_Mauritius.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/180px-Flag_of_Mauritius.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1280px-Flag_of_Mauritius.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1280px-Flag_of_Mauritius.svg.png',
     SovereignStateFlags: {
-      english: "Mauritius",
-      spanish: "Mauricio",
-      ukrainian: "Маврикій",
+      english: 'Mauritius',
+      spanish: 'Mauricio',
+      ukrainian: 'Маврикій',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#D01C1F",
-      yellow: "#FFD700",
-      green: "#00A95C",
+      red: '#D01C1F',
+      yellow: '#FFD700',
+      green: '#00A95C',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5921,23 +5921,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/180px-Flag_of_Mauritania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/180px-Flag_of_Mauritania.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1280px-Flag_of_Mauritania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1280px-Flag_of_Mauritania.svg.png',
     SovereignStateFlags: {
-      english: "Mauritania",
-      spanish: "Mauritania",
-      ukrainian: "Мавританія",
+      english: 'Mauritania',
+      spanish: 'Mauritania',
+      ukrainian: 'Мавританія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#F9423A",
-      white: "#FFFFFF",
-      green: "#00843D",
+      red: '#F9423A',
+      white: '#FFFFFF',
+      green: '#00843D',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -5980,22 +5980,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/180px-Flag_of_Madagascar.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/180px-Flag_of_Madagascar.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1280px-Flag_of_Madagascar.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1280px-Flag_of_Madagascar.svg.png',
     SovereignStateFlags: {
-      english: "Madagascar",
-      spanish: "Madagascar",
-      ukrainian: "Мадагаскар",
+      english: 'Madagascar',
+      spanish: 'Madagascar',
+      ukrainian: 'Мадагаскар',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#D20000",
-      yellow: "#FFE600",
+      red: '#D20000',
+      yellow: '#FFE600',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6038,23 +6038,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/240px-Flag_of_North_Macedonia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/240px-Flag_of_North_Macedonia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1280px-Flag_of_North_Macedonia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1280px-Flag_of_North_Macedonia.svg.png',
     SovereignStateFlags: {
-      english: "North Macedonia",
-      spanish: "Macedonia del Norte",
-      ukrainian: "Північна Македонія",
+      english: 'North Macedonia',
+      spanish: 'Macedonia del Norte',
+      ukrainian: 'Північна Македонія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      black: "#000000",
-      red: "#C8102E",
-      green: "#007A33",
+      black: '#000000',
+      red: '#C8102E',
+      green: '#007A33',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6097,24 +6097,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/180px-Flag_of_Malawi.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/180px-Flag_of_Malawi.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1280px-Flag_of_Malawi.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1280px-Flag_of_Malawi.svg.png',
     SovereignStateFlags: {
-      english: "Malawi",
-      spanish: "Malaui",
-      ukrainian: "Малаві",
+      english: 'Malawi',
+      spanish: 'Malaui',
+      ukrainian: 'Малаві',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#CC0000",
-      white: "#FFFFFF",
-      blue: "#0032A0",
-      yellow: "#FFD100",
+      red: '#CC0000',
+      white: '#FFFFFF',
+      blue: '#0032A0',
+      yellow: '#FFD100',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6157,23 +6157,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/240px-Flag_of_Malaysia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/240px-Flag_of_Malaysia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1280px-Flag_of_Malaysia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1280px-Flag_of_Malaysia.svg.png',
     SovereignStateFlags: {
-      english: "Malaysia",
-      spanish: "Malasia",
-      ukrainian: "Малайзія",
+      english: 'Malaysia',
+      spanish: 'Malasia',
+      ukrainian: 'Малайзія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#14B53A",
-      yellow: "#FCD116",
-      red: "#CE1126",
+      green: '#14B53A',
+      yellow: '#FCD116',
+      red: '#CE1126',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6216,23 +6216,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/180px-Flag_of_Mali.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/180px-Flag_of_Mali.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png',
     SovereignStateFlags: {
-      english: "Mali",
-      spanish: "Malí",
-      ukrainian: "Малі",
+      english: 'Mali',
+      spanish: 'Malí',
+      ukrainian: 'Малі',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#00803A",
-      white: "#FFFFFF",
-      red: "#D21034",
+      green: '#00803A',
+      white: '#FFFFFF',
+      red: '#D21034',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6275,24 +6275,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/180px-Flag_of_Maldives.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/180px-Flag_of_Maldives.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1280px-Flag_of_Maldives.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1280px-Flag_of_Maldives.svg.png',
     SovereignStateFlags: {
-      english: "Maldives",
-      spanish: "Maldivas",
-      ukrainian: "Мальдіви",
+      english: 'Maldives',
+      spanish: 'Maldivas',
+      ukrainian: 'Мальдіви',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      grey: "#7C878E",
-      grey: "#333F48",
-      white: "#FFFFFF",
-      red: "#C01B22",
+      grey: '#7C878E',
+      grey: '#333F48',
+      white: '#FFFFFF',
+      red: '#C01B22',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6335,22 +6335,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/180px-Flag_of_Malta.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/180px-Flag_of_Malta.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1280px-Flag_of_Malta.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1280px-Flag_of_Malta.svg.png',
     SovereignStateFlags: {
-      english: "Malta",
-      spanish: "Malta",
-      ukrainian: "Мальта",
+      english: 'Malta',
+      spanish: 'Malta',
+      ukrainian: 'Мальта',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      green: "#006233",
-      red: "#c1272d",
+      green: '#006233',
+      red: '#c1272d',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -6393,23 +6393,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/180px-Flag_of_Morocco.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/180px-Flag_of_Morocco.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png',
     SovereignStateFlags: {
-      english: "Morocco",
-      spanish: "Marruecos",
-      ukrainian: "Марокко",
+      english: 'Morocco',
+      spanish: 'Marruecos',
+      ukrainian: 'Марокко',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#003893",
-      orange: "#DD7500",
-      white: "#FFFFFF",
+      blue: '#003893',
+      orange: '#DD7500',
+      white: '#FFFFFF',
     },
-    proportions: "10:19",
+    proportions: '10:19',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -6452,23 +6452,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/228px-Flag_of_the_Marshall_Islands.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/228px-Flag_of_the_Marshall_Islands.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1280px-Flag_of_the_Marshall_Islands.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1280px-Flag_of_the_Marshall_Islands.svg.png',
     SovereignStateFlags: {
-      english: "Marshall Islands",
-      spanish: "Islas Marshall",
-      ukrainian: "Маршаллові Острови",
+      english: 'Marshall Islands',
+      spanish: 'Islas Marshall',
+      ukrainian: 'Маршаллові Острови',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#006341",
-      white: "#FFFFFF",
-      red: "#C8102E",
+      green: '#006341',
+      white: '#FFFFFF',
+      red: '#C8102E',
     },
-    proportions: "4:7",
+    proportions: '4:7',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6511,22 +6511,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/210px-Flag_of_Mexico.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/210px-Flag_of_Mexico.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1280px-Flag_of_Mexico.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1280px-Flag_of_Mexico.svg.png',
     SovereignStateFlags: {
-      english: "Mexico",
-      spanish: "México",
-      ukrainian: "Мексика",
+      english: 'Mexico',
+      spanish: 'México',
+      ukrainian: 'Мексика',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#ABCAE9",
-      white: "#FFFFFF",
+      blue: '#ABCAE9',
+      white: '#FFFFFF',
     },
-    proportions: "10:19",
+    proportions: '10:19',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -6569,25 +6569,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/228px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/228px-Flag_of_the_Federated_States_of_Micronesia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1280px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1280px-Flag_of_the_Federated_States_of_Micronesia.svg.png',
     SovereignStateFlags: {
-      english: "Federated States of Micronesia",
-      spanish: "Estados Federados de Micronesia",
-      ukrainian: "Федеративні Штати Мікронезії",
+      english: 'Federated States of Micronesia',
+      spanish: 'Estados Federados de Micronesia',
+      ukrainian: 'Федеративні Штати Мікронезії',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      green: "#009739",
-      white: "#FFFFFF",
-      black: "#000000",
-      yellow: "#FFD100",
-      red: "#E4002B",
+      green: '#009739',
+      white: '#FFFFFF',
+      black: '#000000',
+      yellow: '#FFD100',
+      red: '#E4002B',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6630,26 +6630,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/180px-Flag_of_Mozambique.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/180px-Flag_of_Mozambique.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1280px-Flag_of_Mozambique.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1280px-Flag_of_Mozambique.svg.png',
     SovereignStateFlags: {
-      english: "Mozambique",
-      spanish: "Mozambique",
-      ukrainian: "Мозамбік",
+      english: 'Mozambique',
+      spanish: 'Mozambique',
+      ukrainian: 'Мозамбік',
     },
   },
   {
     numberOfColors: 6,
     colorsUsed: {
-      blue: "#003DA5",
-      yellow: "FFD100",
-      red: "#C8102E",
-      brown: "#AD7C59",
-      green: "#007749",
-      black: "#000000",
+      blue: '#003DA5',
+      yellow: 'FFD100',
+      red: '#C8102E',
+      brown: '#AD7C59',
+      green: '#007749',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6692,22 +6692,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/240px-Flag_of_Moldova.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/240px-Flag_of_Moldova.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1280px-Flag_of_Moldova.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1280px-Flag_of_Moldova.svg.png',
     SovereignStateFlags: {
-      english: "Moldova",
-      spanish: "Moldavia",
-      ukrainian: "Молдова",
+      english: 'Moldova',
+      spanish: 'Moldavia',
+      ukrainian: 'Молдова',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      white: "#FFFFFF",
-      red: "#CE1126",
+      white: '#FFFFFF',
+      red: '#CE1126',
     },
-    proportions: "4:5",
+    proportions: '4:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6750,23 +6750,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/150px-Flag_of_Monaco.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/150px-Flag_of_Monaco.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/1024px-Flag_of_Monaco.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/1024px-Flag_of_Monaco.svg.png',
     SovereignStateFlags: {
-      english: "Monaco",
-      spanish: "Mónaco",
-      ukrainian: "Монако",
+      english: 'Monaco',
+      spanish: 'Mónaco',
+      ukrainian: 'Монако',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#0066FF",
-      red: "#E60019",
-      yellow: "#FFD900",
+      blue: '#0066FF',
+      red: '#E60019',
+      yellow: '#FFD900',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6809,24 +6809,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/240px-Flag_of_Mongolia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/240px-Flag_of_Mongolia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1280px-Flag_of_Mongolia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1280px-Flag_of_Mongolia.svg.png',
     SovereignStateFlags: {
-      english: "Mongolia",
-      spanish: "Mongolia",
-      ukrainian: "Монголія",
+      english: 'Mongolia',
+      spanish: 'Mongolia',
+      ukrainian: 'Монголія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      yellow: "#FECB00",
-      green: "#34B233",
-      red: "#EA2839",
-      white: "#FFFFFF",
+      yellow: '#FECB00',
+      green: '#34B233',
+      red: '#EA2839',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6869,25 +6869,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/180px-Flag_of_Myanmar.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/180px-Flag_of_Myanmar.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1280px-Flag_of_Myanmar.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1280px-Flag_of_Myanmar.svg.png',
     SovereignStateFlags: {
-      english: "Myanmar",
-      spanish: "Birmania",
+      english: 'Myanmar',
+      spanish: 'Birmania',
       ukrainian: "М'янма",
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      blue: "#001489",
-      yellow: "#FFC72C",
-      white: "#FFFFFF",
-      red: "#DA291C",
-      green: "#009A44",
+      blue: '#001489',
+      yellow: '#FFC72C',
+      white: '#FFFFFF',
+      red: '#DA291C',
+      green: '#009A44',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6930,23 +6930,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/180px-Flag_of_Namibia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/180px-Flag_of_Namibia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1280px-Flag_of_Namibia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1280px-Flag_of_Namibia.svg.png',
     SovereignStateFlags: {
-      english: "Namibia",
-      spanish: "Namibia",
-      ukrainian: "Намібія",
+      english: 'Namibia',
+      spanish: 'Namibia',
+      ukrainian: 'Намібія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#012169",
-      yellow: "#FFC72C",
-      white: "#FFFFFF",
+      blue: '#012169',
+      yellow: '#FFC72C',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -6989,23 +6989,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/240px-Flag_of_Nauru.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/240px-Flag_of_Nauru.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1280px-Flag_of_Nauru.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1280px-Flag_of_Nauru.svg.png',
     SovereignStateFlags: {
-      english: "Nauru",
-      spanish: "Nauru",
-      ukrainian: "Науру",
+      english: 'Nauru',
+      spanish: 'Nauru',
+      ukrainian: 'Науру',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#003893",
-      yellow: "#DC143C",
+      white: '#FFFFFF',
+      blue: '#003893',
+      yellow: '#DC143C',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7048,23 +7048,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/98px-Flag_of_Nepal.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/98px-Flag_of_Nepal.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/800px-Flag_of_Nepal.svg.png',
     SovereignStateFlags: {
-      english: "Nepal",
-      spanish: "Nepal",
-      ukrainian: "Непал",
+      english: 'Nepal',
+      spanish: 'Nepal',
+      ukrainian: 'Непал',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      orange: "#E05206",
-      white: "#FFFFFF",
-      green: "#0DB02B",
+      orange: '#E05206',
+      white: '#FFFFFF',
+      green: '#0DB02B',
     },
-    proportions: "6:7",
+    proportions: '6:7',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7107,22 +7107,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/140px-Flag_of_Niger.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/140px-Flag_of_Niger.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1024px-Flag_of_Niger.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1024px-Flag_of_Niger.svg.png',
     SovereignStateFlags: {
-      english: "Niger",
-      spanish: "Níger",
-      ukrainian: "Нігер",
+      english: 'Niger',
+      spanish: 'Níger',
+      ukrainian: 'Нігер',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      green: "#1B7339",
-      white: "#FFFFFF",
+      green: '#1B7339',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7165,23 +7165,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/240px-Flag_of_Nigeria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/240px-Flag_of_Nigeria.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1280px-Flag_of_Nigeria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1280px-Flag_of_Nigeria.svg.png',
     SovereignStateFlags: {
-      english: "Nigeria",
-      spanish: "Nigeria",
-      ukrainian: "Нігерія",
+      english: 'Nigeria',
+      spanish: 'Nigeria',
+      ukrainian: 'Нігерія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#C8102E",
-      white: "#FFFFFF",
-      blue: "#003DA5",
+      red: '#C8102E',
+      white: '#FFFFFF',
+      blue: '#003DA5',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7224,23 +7224,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/180px-Flag_of_the_Netherlands.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/180px-Flag_of_the_Netherlands.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png',
     SovereignStateFlags: {
-      english: "Netherlands",
-      spanish: "Países Bajos",
-      ukrainian: "Нідерланди",
+      english: 'Netherlands',
+      spanish: 'Países Bajos',
+      ukrainian: 'Нідерланди',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      black: "#000000",
-      red: "#DD0000",
-      gold: "#FFCC00",
+      black: '#000000',
+      red: '#DD0000',
+      gold: '#FFCC00',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7283,23 +7283,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/200px-Flag_of_Germany.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/200px-Flag_of_Germany.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png',
     SovereignStateFlags: {
-      english: "Germany",
-      spanish: "Alemania",
-      ukrainian: "Німеччина",
+      english: 'Germany',
+      spanish: 'Alemania',
+      ukrainian: 'Німеччина',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#C8102E",
-      blue: "#012169",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      blue: '#012169',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: true,
       withOneMainColor: true,
@@ -7342,23 +7342,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/240px-Flag_of_New_Zealand.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/240px-Flag_of_New_Zealand.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png',
     SovereignStateFlags: {
-      english: "New Zealand",
-      spanish: "Nueva Zelanda",
-      ukrainian: "Нова Зеландія",
+      english: 'New Zealand',
+      spanish: 'Nueva Zelanda',
+      ukrainian: 'Нова Зеландія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#BA0C2F",
-      white: "#FFFFFF",
-      blue: "#00205B",
+      red: '#BA0C2F',
+      white: '#FFFFFF',
+      blue: '#00205B',
     },
-    proportions: "8:11",
+    proportions: '8:11',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7401,24 +7401,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/165px-Flag_of_Norway.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/165px-Flag_of_Norway.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png',
     SovereignStateFlags: {
-      english: "Norway",
-      spanish: "Noruega",
-      ukrainian: "Норвегія",
+      english: 'Norway',
+      spanish: 'Noruega',
+      ukrainian: 'Норвегія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#EF3340",
-      green: "#009739",
-      white: "#FFFFFF",
-      black: "#000000",
+      red: '#EF3340',
+      green: '#009739',
+      white: '#FFFFFF',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7461,23 +7461,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/240px-Flag_of_the_United_Arab_Emirates.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/240px-Flag_of_the_United_Arab_Emirates.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1280px-Flag_of_the_United_Arab_Emirates.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1280px-Flag_of_the_United_Arab_Emirates.svg.png',
     SovereignStateFlags: {
-      english: "United Arab Emirates",
-      spanish: "Emiratos Árabes Unidos",
+      english: 'United Arab Emirates',
+      spanish: 'Emiratos Árabes Unidos',
       ukrainian: "Об'єднані Арабські Емірати",
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      white: "#FFFFFF",
-      red: "#C8102E",
-      green: "#009A44",
+      white: '#FFFFFF',
+      red: '#C8102E',
+      green: '#009A44',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7520,23 +7520,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/240px-Flag_of_Oman.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/240px-Flag_of_Oman.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1280px-Flag_of_Oman.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1280px-Flag_of_Oman.svg.png',
     SovereignStateFlags: {
-      english: "Oman",
-      spanish: "Omán",
-      ukrainian: "Оман",
+      english: 'Oman',
+      spanish: 'Omán',
+      ukrainian: 'Оман',
     },
   },
 
   {
     numberOfColors: 2,
     colorsUsed: {
-      green: "#115740",
-      white: "#FFFFFF",
+      green: '#115740',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7579,22 +7579,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/180px-Flag_of_Pakistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/180px-Flag_of_Pakistan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png',
     SovereignStateFlags: {
-      english: "Pakistan",
-      spanish: "Pakistán",
-      ukrainian: "Пакистан",
+      english: 'Pakistan',
+      spanish: 'Pakistán',
+      ukrainian: 'Пакистан',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#0085CA",
-      yellow: "#FFD100",
+      blue: '#0085CA',
+      yellow: '#FFD100',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -7637,23 +7637,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/192px-Flag_of_Palau.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/192px-Flag_of_Palau.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/1280px-Flag_of_Palau.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/1280px-Flag_of_Palau.svg.png',
     SovereignStateFlags: {
-      english: "Palau",
-      spanish: "Palaos",
-      ukrainian: "Палау",
+      english: 'Palau',
+      spanish: 'Palaos',
+      ukrainian: 'Палау',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#DA121A",
-      white: "#FFFFFF",
-      blue: "#072357",
+      red: '#DA121A',
+      white: '#FFFFFF',
+      blue: '#072357',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7696,24 +7696,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/180px-Flag_of_Panama.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/180px-Flag_of_Panama.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png',
     SovereignStateFlags: {
-      english: "Panama",
-      spanish: "Panamá",
-      ukrainian: "Панама",
+      english: 'Panama',
+      spanish: 'Panamá',
+      ukrainian: 'Панама',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#C8102E",
-      black: "#000000",
-      white: "#FFFFFF",
-      yellow: "#FFCD00",
+      red: '#C8102E',
+      black: '#000000',
+      white: '#FFFFFF',
+      yellow: '#FFCD00',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7756,26 +7756,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/160px-Flag_of_Papua_New_Guinea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/160px-Flag_of_Papua_New_Guinea.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1280px-Flag_of_Papua_New_Guinea.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1280px-Flag_of_Papua_New_Guinea.svg.png',
     SovereignStateFlags: {
-      english: "Papua New Guinea",
-      spanish: "Papúa Nueva Guinea",
-      ukrainian: "Папуа Нова Гвінея",
+      english: 'Papua New Guinea',
+      spanish: 'Papúa Nueva Guinea',
+      ukrainian: 'Папуа Нова Гвінея',
     },
   },
   {
     numberOfColors: 6,
     colorsUsed: {
-      red: "#D52B1E",
-      white: "#FFFFFF",
-      blue: "#0038A8",
-      yellow: "#FEDF00",
-      black: "#000000",
-      green: "#009B3A",
+      red: '#D52B1E',
+      white: '#FFFFFF',
+      blue: '#0038A8',
+      yellow: '#FEDF00',
+      black: '#000000',
+      green: '#009B3A',
     },
-    proportions: "11:20",
+    proportions: '11:20',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7818,22 +7818,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/219px-Flag_of_Paraguay.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/219px-Flag_of_Paraguay.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1280px-Flag_of_Paraguay.svg.png',
     SovereignStateFlags: {
-      english: "Paraguay",
-      spanish: "Paraguay",
-      ukrainian: "Парагвай",
+      english: 'Paraguay',
+      spanish: 'Paraguay',
+      ukrainian: 'Парагвай',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#C8102E",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7876,26 +7876,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/180px-Flag_of_Peru.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/180px-Flag_of_Peru.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png',
     SovereignStateFlags: {
-      english: "Peru",
-      spanish: "Perú",
-      ukrainian: "Перу",
+      english: 'Peru',
+      spanish: 'Perú',
+      ukrainian: 'Перу',
     },
   },
   {
     numberOfColors: 6,
     colorsUsed: {
-      red: "#E03C31",
-      white: "#FFFFFF",
-      green: "#007749",
-      blue: "#001489",
-      yellow: "#FFB81C",
-      black: "#000000",
+      red: '#E03C31',
+      white: '#FFFFFF',
+      green: '#007749',
+      blue: '#001489',
+      yellow: '#FFB81C',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -7938,26 +7938,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/180px-Flag_of_South_Africa.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/180px-Flag_of_South_Africa.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png',
     SovereignStateFlags: {
-      english: "South Africa",
-      spanish: "Sudáfrica",
-      ukrainian: "Південно-Африканська Республіка",
+      english: 'South Africa',
+      spanish: 'Sudáfrica',
+      ukrainian: 'Південно-Африканська Республіка',
     },
   },
   {
     numberOfColors: 6,
     colorsUsed: {
-      blue: "#0F47FF",
-      yellow: "#FCDD09",
-      black: "#000000",
-      white: "#FFFFFF",
-      red: "#DA121A",
-      green: "#078930",
+      blue: '#0F47FF',
+      yellow: '#FCDD09',
+      black: '#000000',
+      white: '#FFFFFF',
+      red: '#DA121A',
+      green: '#078930',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8000,22 +8000,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/240px-Flag_of_South_Sudan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/240px-Flag_of_South_Sudan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1280px-Flag_of_South_Sudan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1280px-Flag_of_South_Sudan.svg.png',
     SovereignStateFlags: {
-      english: "South Sudan",
-      spanish: "Sudán del Sur",
-      ukrainian: "Південний Судан",
+      english: 'South Sudan',
+      spanish: 'Sudán del Sur',
+      ukrainian: 'Південний Судан',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#DC143C",
-      white: "#FFFFFF",
+      red: '#DC143C',
+      white: '#FFFFFF',
     },
-    proportions: "5:8",
+    proportions: '5:8',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8058,26 +8058,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/192px-Flag_of_Poland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/192px-Flag_of_Poland.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.svg.png',
     SovereignStateFlags: {
-      english: "Poland",
-      spanish: "Polonia",
-      ukrainian: "Польща",
+      english: 'Poland',
+      spanish: 'Polonia',
+      ukrainian: 'Польща',
     },
   },
   {
     numberOfColors: 6,
     colorsUsed: {
-      green: "#046A38",
-      red: "#DA291C",
-      yellow: "#FFE900",
-      blue: "#002D72",
-      white: "#FFFFFF",
-      black: "#000000",
+      green: '#046A38',
+      red: '#DA291C',
+      yellow: '#FFE900',
+      blue: '#002D72',
+      white: '#FFFFFF',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8120,24 +8120,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/180px-Flag_of_Portugal.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/180px-Flag_of_Portugal.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png',
     SovereignStateFlags: {
-      english: "Portugal",
-      spanish: "Portugal",
-      ukrainian: "Португалія",
+      english: 'Portugal',
+      spanish: 'Portugal',
+      ukrainian: 'Португалія',
     },
   },
 
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#1C3578",
-      red: "#E4181C",
+      white: '#FFFFFF',
+      blue: '#1C3578',
+      red: '#E4181C',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8180,24 +8180,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/180px-Flag_of_Russia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/180px-Flag_of_Russia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png',
     SovereignStateFlags: {
-      english: "Russia",
-      spanish: "Rusia",
-      ukrainian: "Росія",
+      english: 'Russia',
+      spanish: 'Rusia',
+      ukrainian: 'Росія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#00A1DE",
-      gold: "#E5BE01",
-      yellow: "#FAD201",
-      green: "#20603D",
+      blue: '#00A1DE',
+      gold: '#E5BE01',
+      yellow: '#FAD201',
+      green: '#20603D',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8240,23 +8240,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/180px-Flag_of_Rwanda.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/180px-Flag_of_Rwanda.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png',
     SovereignStateFlags: {
-      english: "Rwanda",
-      spanish: "Ruanda",
-      ukrainian: "Руанда",
+      english: 'Rwanda',
+      spanish: 'Ruanda',
+      ukrainian: 'Руанда',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#002B7F",
-      yellow: "#FCD116",
-      red: "#CE1126",
+      blue: '#002B7F',
+      yellow: '#FCD116',
+      red: '#CE1126',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8299,27 +8299,27 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/180px-Flag_of_Romania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/180px-Flag_of_Romania.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png',
     SovereignStateFlags: {
-      english: "Romania",
-      spanish: "Rumania",
-      ukrainian: "Румунія",
+      english: 'Romania',
+      spanish: 'Rumania',
+      ukrainian: 'Румунія',
     },
   },
 
   {
     numberOfColors: 6,
     colorsUsed: {
-      blue: "#0047AB",
-      white: "#FFFFFF",
-      yellow: "#FCE300",
-      black: "#000000",
-      red: "#E60000",
-      green: "#009900",
+      blue: '#0047AB',
+      white: '#FFFFFF',
+      yellow: '#FCE300',
+      black: '#000000',
+      red: '#E60000',
+      green: '#009900',
     },
-    proportions: "9:16",
+    proportions: '9:16',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8362,23 +8362,23 @@ export const galleryItems = [
       InTriangle: true,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/213px-Flag_of_El_Salvador.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/213px-Flag_of_El_Salvador.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1280px-Flag_of_El_Salvador.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1280px-Flag_of_El_Salvador.svg.png',
     SovereignStateFlags: {
-      english: "El Salvador",
-      spanish: "El Salvador",
-      ukrainian: "Сальвадор",
+      english: 'El Salvador',
+      spanish: 'El Salvador',
+      ukrainian: 'Сальвадор',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#002B7F",
-      white: "#FFFFFF",
-      red: "#CE1126",
+      blue: '#002B7F',
+      white: '#FFFFFF',
+      red: '#CE1126',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8421,22 +8421,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/240px-Flag_of_Samoa.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/240px-Flag_of_Samoa.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1280px-Flag_of_Samoa.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1280px-Flag_of_Samoa.svg.png',
     SovereignStateFlags: {
-      english: "Samoa",
-      spanish: "Samoa",
-      ukrainian: "Самоа",
+      english: 'Samoa',
+      spanish: 'Samoa',
+      ukrainian: 'Самоа',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#62B5E5",
+      white: '#FFFFFF',
+      blue: '#62B5E5',
     },
-    proportions: "3:4",
+    proportions: '3:4',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8479,24 +8479,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/160px-Flag_of_San_Marino.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/160px-Flag_of_San_Marino.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1280px-Flag_of_San_Marino.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1280px-Flag_of_San_Marino.svg.png',
     SovereignStateFlags: {
-      english: "San Marino",
-      spanish: "San Marino",
-      ukrainian: "Сан-Марино",
+      english: 'San Marino',
+      spanish: 'San Marino',
+      ukrainian: 'Сан-Марино',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#009739",
-      yellow: "#FFD100",
-      black: "#000000",
-      red: "#EF3340",
+      green: '#009739',
+      yellow: '#FFD100',
+      black: '#000000',
+      red: '#EF3340',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8539,22 +8539,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/240px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/240px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1280px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1280px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png',
     SovereignStateFlags: {
-      english: "São Tomé and Príncipe",
-      spanish: "Santo Tomé y Príncipe",
-      ukrainian: "Сан-Томе і Принсіпі",
+      english: 'São Tomé and Príncipe',
+      spanish: 'Santo Tomé y Príncipe',
+      ukrainian: 'Сан-Томе і Принсіпі',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#009739",
-      yellow: "#FFD100",
+      green: '#009739',
+      yellow: '#FFD100',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -8597,23 +8597,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/180px-Flag_of_Saudi_Arabia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/180px-Flag_of_Saudi_Arabia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png',
     SovereignStateFlags: {
-      english: "Saudi Arabia",
-      spanish: "Arabia Saudita",
-      ukrainian: "Саудівська Аравія",
+      english: 'Saudi Arabia',
+      spanish: 'Arabia Saudita',
+      ukrainian: 'Саудівська Аравія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#3E5EB9",
-      yellow: "#FFD900",
-      red: "#B10C0C",
+      blue: '#3E5EB9',
+      yellow: '#FFD900',
+      red: '#B10C0C',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8656,25 +8656,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/180px-Flag_of_Eswatini.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/180px-Flag_of_Eswatini.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/1280px-Flag_of_Eswatini.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/1280px-Flag_of_Eswatini.svg.png',
     SovereignStateFlags: {
-      english: "Eswatini",
-      spanish: "Suazilandia",
-      ukrainian: "Есватіні",
+      english: 'Eswatini',
+      spanish: 'Suazilandia',
+      ukrainian: 'Есватіні',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#002F6C",
-      yellow: "#FED141",
-      red: "#D22730",
-      white: "#FFFFFF",
-      green: "#007A33",
+      blue: '#002F6C',
+      yellow: '#FED141',
+      red: '#D22730',
+      white: '#FFFFFF',
+      green: '#007A33',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8717,23 +8717,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/240px-Flag_of_Seychelles.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/240px-Flag_of_Seychelles.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1280px-Flag_of_Seychelles.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1280px-Flag_of_Seychelles.svg.png',
     SovereignStateFlags: {
-      english: "Seychelles",
-      spanish: "Seychelles",
-      ukrainian: "Сейшельські Острови",
+      english: 'Seychelles',
+      spanish: 'Seychelles',
+      ukrainian: 'Сейшельські Острови',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#00853F",
-      yellow: "#FDEF42",
-      red: "#E31B23",
+      green: '#00853F',
+      yellow: '#FDEF42',
+      red: '#E31B23',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8776,23 +8776,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/180px-Flag_of_Senegal.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/180px-Flag_of_Senegal.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png',
     SovereignStateFlags: {
-      english: "Senegal",
-      spanish: "Senegal",
-      ukrainian: "Сенегал",
+      english: 'Senegal',
+      spanish: 'Senegal',
+      ukrainian: 'Сенегал',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#002674",
-      yellow: "#FCD022",
-      green: "#007C2E",
+      blue: '#002674',
+      yellow: '#FCD022',
+      green: '#007C2E',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8835,25 +8835,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/180px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/180px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png',
     SovereignStateFlags: {
-      english: "Saint Vincent and the Grenadines",
-      spanish: "San Vicente y las Granadinas",
-      ukrainian: "Сент-Вінсент і Гренадини",
+      english: 'Saint Vincent and the Grenadines',
+      spanish: 'San Vicente y las Granadinas',
+      ukrainian: 'Сент-Вінсент і Гренадини',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      green: "#009739",
-      yellow: "#FFD100",
-      black: "#000000",
-      white: "#FFFFFF",
-      red: "#EF3340",
+      green: '#009739',
+      yellow: '#FFD100',
+      black: '#000000',
+      white: '#FFFFFF',
+      red: '#EF3340',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -8896,24 +8896,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/180px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/180px-Flag_of_Saint_Kitts_and_Nevis.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1280px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1280px-Flag_of_Saint_Kitts_and_Nevis.svg.png',
     SovereignStateFlags: {
-      english: "Saint Kitts and Nevis",
-      spanish: "San Cristóbal y Nieves",
-      ukrainian: "Сент-Кіттс і Невіс",
+      english: 'Saint Kitts and Nevis',
+      spanish: 'San Cristóbal y Nieves',
+      ukrainian: 'Сент-Кіттс і Невіс',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#0077C8",
-      white: "#FFFFFF",
-      black: "#000000",
-      yellow: "#FFD100",
+      blue: '#0077C8',
+      white: '#FFFFFF',
+      black: '#000000',
+      yellow: '#FFD100',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -8956,26 +8956,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/240px-Flag_of_Saint_Lucia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/240px-Flag_of_Saint_Lucia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/1280px-Flag_of_Saint_Lucia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/1280px-Flag_of_Saint_Lucia.svg.png',
     SovereignStateFlags: {
-      english: "Saint Lucia",
-      spanish: "Santa Lucía",
-      ukrainian: "Сент-Люсія",
+      english: 'Saint Lucia',
+      spanish: 'Santa Lucía',
+      ukrainian: 'Сент-Люсія',
     },
   },
   {
     numberOfColors: 6,
     colorsUsed: {
-      red: "#C7363D",
-      puprple: "#A12D2E",
-      blue: "#0C4077",
-      white: "#FFFFFF",
-      yellow: "#EDB92E",
-      black: "#000000",
+      red: '#C7363D',
+      puprple: '#A12D2E',
+      blue: '#0C4077',
+      white: '#FFFFFF',
+      yellow: '#EDB92E',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9018,22 +9018,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/180px-Flag_of_Serbia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/180px-Flag_of_Serbia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png',
     SovereignStateFlags: {
-      english: "Serbia",
-      spanish: "Serbia",
-      ukrainian: "Сербія",
+      english: 'Serbia',
+      spanish: 'Serbia',
+      ukrainian: 'Сербія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#C73b3C",
-      white: "#FFFFFF",
+      red: '#C73b3C',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9076,24 +9076,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/180px-Flag_of_Singapore.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/180px-Flag_of_Singapore.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png',
     SovereignStateFlags: {
-      english: "Singapore",
-      spanish: "Singapur",
-      ukrainian: "Сінгапур",
+      english: 'Singapore',
+      spanish: 'Singapur',
+      ukrainian: 'Сінгапур',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#CE1126",
-      white: "#FFFFFF",
-      green: "#007A3D",
-      black: "#000000",
+      red: '#CE1126',
+      white: '#FFFFFF',
+      green: '#007A3D',
+      black: '#000000',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9136,23 +9136,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/180px-Flag_of_Syria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/180px-Flag_of_Syria.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1280px-Flag_of_Syria.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1280px-Flag_of_Syria.svg.png',
     SovereignStateFlags: {
-      english: "Syria",
-      spanish: "Siria",
-      ukrainian: "Сирія",
+      english: 'Syria',
+      spanish: 'Siria',
+      ukrainian: 'Сирія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#0B4EA2",
-      red: "#EE1C25",
+      white: '#FFFFFF',
+      blue: '#0B4EA2',
+      red: '#EE1C25',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9195,24 +9195,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/180px-Flag_of_Slovakia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/180px-Flag_of_Slovakia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1280px-Flag_of_Slovakia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1280px-Flag_of_Slovakia.svg.png',
     SovereignStateFlags: {
-      english: "Slovakia",
-      spanish: "Eslovaquia",
-      ukrainian: "Словаччина",
+      english: 'Slovakia',
+      spanish: 'Eslovaquia',
+      ukrainian: 'Словаччина',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#003DA5",
-      red: "#FF0000",
-      yellow: "#FFCD00",
+      white: '#FFFFFF',
+      blue: '#003DA5',
+      red: '#FF0000',
+      yellow: '#FFCD00',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9255,24 +9255,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/240px-Flag_of_Slovenia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/240px-Flag_of_Slovenia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1280px-Flag_of_Slovenia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1280px-Flag_of_Slovenia.svg.png',
     SovereignStateFlags: {
-      english: "Slovenia",
-      spanish: "Eslovenia",
-      ukrainian: "Словенія",
+      english: 'Slovenia',
+      spanish: 'Eslovenia',
+      ukrainian: 'Словенія',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#0051BA",
-      white: "#FFFFFF",
-      yellow: "#FCD116",
-      green: "#215B33",
+      blue: '#0051BA',
+      white: '#FFFFFF',
+      yellow: '#FCD116',
+      green: '#215B33',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9315,22 +9315,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/240px-Flag_of_the_Solomon_Islands.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/240px-Flag_of_the_Solomon_Islands.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1280px-Flag_of_the_Solomon_Islands.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1280px-Flag_of_the_Solomon_Islands.svg.png',
     SovereignStateFlags: {
-      english: "Solomon Islands",
-      spanish: "Islas Salomón",
-      ukrainian: "Соломонові Острови",
+      english: 'Solomon Islands',
+      spanish: 'Islas Salomón',
+      ukrainian: 'Соломонові Острови',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#4189DD",
-      white: "#FFFFFF",
+      blue: '#4189DD',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -9373,23 +9373,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/180px-Flag_of_Somalia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/180px-Flag_of_Somalia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1280px-Flag_of_Somalia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1280px-Flag_of_Somalia.svg.png',
     SovereignStateFlags: {
-      english: "Somalia",
-      spanish: "Somalia",
-      ukrainian: "Сомалі",
+      english: 'Somalia',
+      spanish: 'Somalia',
+      ukrainian: 'Сомалі',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#B31942",
-      white: "#FFFFFF",
-      blue: "#0A3161",
+      red: '#B31942',
+      white: '#FFFFFF',
+      blue: '#0A3161',
     },
-    proportions: "10:19",
+    proportions: '10:19',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9432,24 +9432,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/228px-Flag_of_the_United_States.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/228px-Flag_of_the_United_States.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png',
     SovereignStateFlags: {
-      english: "United States",
-      spanish: "Estados Unidos",
-      ukrainian: "Сполучені Штати Америки",
+      english: 'United States',
+      spanish: 'Estados Unidos',
+      ukrainian: 'Сполучені Штати Америки',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#D21034",
-      white: "#FFFFFF",
-      black: "#000000",
-      green: "#007229",
+      red: '#D21034',
+      white: '#FFFFFF',
+      black: '#000000',
+      green: '#007229',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9492,24 +9492,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/240px-Flag_of_Sudan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/240px-Flag_of_Sudan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1280px-Flag_of_Sudan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1280px-Flag_of_Sudan.svg.png',
     SovereignStateFlags: {
-      english: "Sudan",
-      spanish: "Sudán",
-      ukrainian: "Судан",
+      english: 'Sudan',
+      spanish: 'Sudán',
+      ukrainian: 'Судан',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#007A33",
-      white: "#FFFFFF",
-      red: "#C8102E",
-      yellow: "#FFCD00",
+      green: '#007A33',
+      white: '#FFFFFF',
+      red: '#C8102E',
+      yellow: '#FFCD00',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9552,24 +9552,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/180px-Flag_of_Suriname.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/180px-Flag_of_Suriname.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1280px-Flag_of_Suriname.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1280px-Flag_of_Suriname.svg.png',
     SovereignStateFlags: {
-      english: "Suriname",
-      spanish: "Surinam",
-      ukrainian: "Суринам",
+      english: 'Suriname',
+      spanish: 'Surinam',
+      ukrainian: 'Суринам',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      black: "#000000",
-      white: "#FFFFFF",
-      yellow: "#FFC72C",
-      red: "#DA291C",
+      black: '#000000',
+      white: '#FFFFFF',
+      yellow: '#FFC72C',
+      red: '#DA291C',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -9612,23 +9612,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/240px-Flag_of_East_Timor.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/240px-Flag_of_East_Timor.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1280px-Flag_of_East_Timor.svg.png',
     SovereignStateFlags: {
-      english: "East Timor",
-      spanish: "Timor Oriental",
-      ukrainian: "Східний Тимор",
+      english: 'East Timor',
+      spanish: 'Timor Oriental',
+      ukrainian: 'Східний Тимор',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#1EB53A",
-      white: "#FFFFFF",
-      blue: "#0072C6",
+      green: '#1EB53A',
+      white: '#FFFFFF',
+      blue: '#0072C6',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9671,25 +9671,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/180px-Flag_of_Sierra_Leone.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/180px-Flag_of_Sierra_Leone.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1280px-Flag_of_Sierra_Leone.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1280px-Flag_of_Sierra_Leone.svg.png',
     SovereignStateFlags: {
-      english: "Sierra Leone",
-      spanish: "Sierra Leona",
-      ukrainian: "Сьєрра-Леоне",
+      english: 'Sierra Leone',
+      spanish: 'Sierra Leona',
+      ukrainian: 'Сьєрра-Леоне',
     },
   },
 
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#CC0000",
-      white: "#FFFFFF",
-      green: "#006600",
-      yellow: "#F8C300",
+      red: '#CC0000',
+      white: '#FFFFFF',
+      green: '#006600',
+      yellow: '#F8C300',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9732,23 +9732,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/240px-Flag_of_Tajikistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/240px-Flag_of_Tajikistan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1280px-Flag_of_Tajikistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1280px-Flag_of_Tajikistan.svg.png',
     SovereignStateFlags: {
-      english: "Tajikistan",
-      spanish: "Tayikistán",
-      ukrainian: "Таджикистан",
+      english: 'Tajikistan',
+      spanish: 'Tayikistán',
+      ukrainian: 'Таджикистан',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#EF3340",
-      white: "#FFFFFF",
-      blue: "#00247D",
+      red: '#EF3340',
+      white: '#FFFFFF',
+      blue: '#00247D',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9791,24 +9791,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/180px-Flag_of_Thailand.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/180px-Flag_of_Thailand.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1280px-Flag_of_Thailand.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1280px-Flag_of_Thailand.svg.png',
     SovereignStateFlags: {
-      english: "Thailand",
-      spanish: "Tailandia",
-      ukrainian: "Таїланд",
+      english: 'Thailand',
+      spanish: 'Tailandia',
+      ukrainian: 'Таїланд',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      green: "#1EB53A",
-      yellow: "#FCD116",
-      black: "#000000",
-      blue: "#00A3DD",
+      green: '#1EB53A',
+      yellow: '#FCD116',
+      black: '#000000',
+      blue: '#00A3DD',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9851,22 +9851,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/180px-Flag_of_Tanzania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/180px-Flag_of_Tanzania.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png',
     SovereignStateFlags: {
-      english: "Tanzania",
-      spanish: "Tanzania",
-      ukrainian: "Танзанія",
+      english: 'Tanzania',
+      spanish: 'Tanzania',
+      ukrainian: 'Танзанія',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#C10000",
-      white: "#FFFFFF",
+      red: '#C10000',
+      white: '#FFFFFF',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -9909,24 +9909,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/240px-Flag_of_Tonga.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/240px-Flag_of_Tonga.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1280px-Flag_of_Tonga.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1280px-Flag_of_Tonga.svg.png',
     SovereignStateFlags: {
-      english: "Tonga",
-      spanish: "Tonga",
-      ukrainian: "Тонга",
+      english: 'Tonga',
+      spanish: 'Tonga',
+      ukrainian: 'Тонга',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      red: "#D21034",
-      white: "#FFFFFF",
-      green: "#006A4A",
-      yellow: "#FFCE00",
+      red: '#D21034',
+      white: '#FFFFFF',
+      green: '#006A4A',
+      yellow: '#FFCE00',
     },
-    proportions: "1:1,618",
+    proportions: '1:1,618',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -9969,23 +9969,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/194px-Flag_of_Togo.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/194px-Flag_of_Togo.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1280px-Flag_of_Togo.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1280px-Flag_of_Togo.svg.png',
     SovereignStateFlags: {
-      english: "Togo",
-      spanish: "Togo",
-      ukrainian: "Того",
+      english: 'Togo',
+      spanish: 'Togo',
+      ukrainian: 'Того',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#C8102E",
-      black: "#000000",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      black: '#000000',
+      white: '#FFFFFF',
     },
-    proportions: "3:5",
+    proportions: '3:5',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10028,25 +10028,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/200px-Flag_of_Trinidad_and_Tobago.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/200px-Flag_of_Trinidad_and_Tobago.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1280px-Flag_of_Trinidad_and_Tobago.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1280px-Flag_of_Trinidad_and_Tobago.svg.png',
     SovereignStateFlags: {
-      english: "Trinidad and Tobago",
-      spanish: "Trinidad y Tobago",
-      ukrainian: "Тринідад і Тобаго",
+      english: 'Trinidad and Tobago',
+      spanish: 'Trinidad y Tobago',
+      ukrainian: 'Тринідад і Тобаго',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      blue: "#012169",
-      blue: "#418FDE",
-      white: "#FFFFFF",
-      red: "#C8102E",
-      yellow: "#FFCD00",
+      blue: '#012169',
+      blue: '#418FDE',
+      white: '#FFFFFF',
+      red: '#C8102E',
+      yellow: '#FFCD00',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: true,
       withOneMainColor: true,
@@ -10089,22 +10089,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/240px-Flag_of_Tuvalu.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/240px-Flag_of_Tuvalu.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1280px-Flag_of_Tuvalu.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1280px-Flag_of_Tuvalu.svg.png',
     SovereignStateFlags: {
-      english: "Tuvalu",
-      spanish: "Tuvalu",
-      ukrainian: "Тувалу",
+      english: 'Tuvalu',
+      spanish: 'Tuvalu',
+      ukrainian: 'Тувалу',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#C8102E",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -10147,22 +10147,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/180px-Flag_of_Tunisia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/180px-Flag_of_Tunisia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png',
     SovereignStateFlags: {
-      english: "Tunisia",
-      spanish: "Túnez",
-      ukrainian: "Туніс",
+      english: 'Tunisia',
+      spanish: 'Túnez',
+      ukrainian: 'Туніс',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#C8102E",
-      white: "#FFFFFF",
+      red: '#C8102E',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -10205,23 +10205,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/180px-Flag_of_Turkey.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/180px-Flag_of_Turkey.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png',
     SovereignStateFlags: {
-      english: "Turkey",
-      spanish: "Turquía",
-      ukrainian: "Туреччина",
+      english: 'Turkey',
+      spanish: 'Turquía',
+      ukrainian: 'Туреччина',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#009739",
-      white: "#FFFFFF",
-      red: "#E03C31",
+      green: '#009739',
+      white: '#FFFFFF',
+      red: '#E03C31',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -10264,25 +10264,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/180px-Flag_of_Turkmenistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/180px-Flag_of_Turkmenistan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1280px-Flag_of_Turkmenistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1280px-Flag_of_Turkmenistan.svg.png',
     SovereignStateFlags: {
-      english: "Turkmenistan",
-      spanish: "Turkmenistán",
-      ukrainian: "Туркменістан",
+      english: 'Turkmenistan',
+      spanish: 'Turkmenistán',
+      ukrainian: 'Туркменістан',
     },
   },
 
   {
     numberOfColors: 4,
     colorsUsed: {
-      yellow: "#FCDC04",
-      red: "#D90000",
-      black: "#000000",
-      grey: "#9CA69C",
+      yellow: '#FCDC04',
+      red: '#D90000',
+      black: '#000000',
+      grey: '#9CA69C',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10325,23 +10325,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/180px-Flag_of_Uganda.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/180px-Flag_of_Uganda.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1280px-Flag_of_Uganda.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1280px-Flag_of_Uganda.svg.png',
     SovereignStateFlags: {
-      english: "Uganda",
-      spanish: "Uganda",
-      ukrainian: "Уганда",
+      english: 'Uganda',
+      spanish: 'Uganda',
+      ukrainian: 'Уганда',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      red: "#CE2939",
-      white: "#FFFFFF",
-      green: "#477050",
+      red: '#CE2939',
+      white: '#FFFFFF',
+      green: '#477050',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10384,24 +10384,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/240px-Flag_of_Hungary.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/240px-Flag_of_Hungary.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png',
     SovereignStateFlags: {
-      english: "Hungary",
-      spanish: "Hungría",
-      ukrainian: "Угорщина",
+      english: 'Hungary',
+      spanish: 'Hungría',
+      ukrainian: 'Угорщина',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#0072CE",
-      red: "#DA291C",
-      white: "#FFFFFF",
-      green: "#43B02A",
+      blue: '#0072CE',
+      red: '#DA291C',
+      white: '#FFFFFF',
+      green: '#43B02A',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10444,22 +10444,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/240px-Flag_of_Uzbekistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/240px-Flag_of_Uzbekistan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1280px-Flag_of_Uzbekistan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1280px-Flag_of_Uzbekistan.svg.png',
     SovereignStateFlags: {
-      english: "Uzbekistan",
-      spanish: "Uzbekistán",
-      ukrainian: "Узбекистан",
+      english: 'Uzbekistan',
+      spanish: 'Uzbekistán',
+      ukrainian: 'Узбекистан',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#0057B7",
-      yellow: "#FFDD00",
+      blue: '#0057B7',
+      yellow: '#FFDD00',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10502,24 +10502,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/180px-Flag_of_Ukraine.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/180px-Flag_of_Ukraine.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png',
     SovereignStateFlags: {
-      english: "Ukraine",
-      spanish: "Ucrania",
-      ukrainian: "Україна",
+      english: 'Ukraine',
+      spanish: 'Ucrania',
+      ukrainian: 'Україна',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#001489",
-      white: "#FFFFFF",
-      yellow: "#FFCD00",
-      brown: "#7B3F00",
+      blue: '#001489',
+      white: '#FFFFFF',
+      yellow: '#FFCD00',
+      brown: '#7B3F00',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10562,25 +10562,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/180px-Flag_of_Uruguay.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/180px-Flag_of_Uruguay.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png',
     SovereignStateFlags: {
-      english: "Uruguay",
-      spanish: "Uruguay",
-      ukrainian: "Уругвай",
+      english: 'Uruguay',
+      spanish: 'Uruguay',
+      ukrainian: 'Уругвай',
     },
   },
 
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#69B3E7",
-      blue: "#012169",
-      white: "#FFFFFF",
-      red: "#C8102E",
+      blue: '#69B3E7',
+      blue: '#012169',
+      white: '#FFFFFF',
+      red: '#C8102E',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: true,
       withOneMainColor: true,
@@ -10623,24 +10623,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/240px-Flag_of_Fiji.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/240px-Flag_of_Fiji.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1280px-Flag_of_Fiji.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1280px-Flag_of_Fiji.svg.png',
     SovereignStateFlags: {
-      english: "Fiji",
-      spanish: "Fiyi",
-      ukrainian: "Фіджі",
+      english: 'Fiji',
+      spanish: 'Fiyi',
+      ukrainian: 'Фіджі',
     },
   },
   {
     numberOfColors: 4,
     colorsUsed: {
-      blue: "#0032A0",
-      red: "#BF0D3E",
-      white: "#FFFFFF",
-      yellow: "#FED141",
+      blue: '#0032A0',
+      red: '#BF0D3E',
+      white: '#FFFFFF',
+      yellow: '#FED141',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10683,22 +10683,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/240px-Flag_of_the_Philippines.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/240px-Flag_of_the_Philippines.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png',
     SovereignStateFlags: {
-      english: "Philippines",
-      spanish: "Filipinas",
-      ukrainian: "Філіппіни",
+      english: 'Philippines',
+      spanish: 'Filipinas',
+      ukrainian: 'Філіппіни',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      white: "#FFFFFF",
-      blue: "#002F6C",
+      white: '#FFFFFF',
+      blue: '#002F6C',
     },
-    proportions: "11:18",
+    proportions: '11:18',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10741,23 +10741,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/197px-Flag_of_Finland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/197px-Flag_of_Finland.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png',
     SovereignStateFlags: {
-      english: "Finland",
-      spanish: "Finlandia",
-      ukrainian: "Фінляндія",
+      english: 'Finland',
+      spanish: 'Finlandia',
+      ukrainian: 'Фінляндія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#002654",
-      white: "#FFFFFF",
-      red: "#ED2939",
+      blue: '#002654',
+      white: '#FFFFFF',
+      red: '#ED2939',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10800,27 +10800,27 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/180px-Flag_of_France.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/180px-Flag_of_France.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png',
     SovereignStateFlags: {
-      english: "France",
-      spanish: "Francia",
-      ukrainian: "Фінляндія",
+      english: 'France',
+      spanish: 'Francia',
+      ukrainian: 'Фінляндія',
     },
   },
 
   {
     numberOfColors: 6,
     colorsUsed: {
-      red: "#ff0000",
-      white: "#FFFFFF",
-      blue: "#012169",
-      blue: "#71C5E8",
-      yellow: "#FFCD00",
-      black: "#000000",
+      red: '#ff0000',
+      white: '#FFFFFF',
+      blue: '#012169',
+      blue: '#71C5E8',
+      yellow: '#FFCD00',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10863,26 +10863,26 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/240px-Flag_of_Croatia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/240px-Flag_of_Croatia.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1280px-Flag_of_Croatia.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1280px-Flag_of_Croatia.svg.png',
     SovereignStateFlags: {
-      english: "Croatia",
-      spanish: "Croacia",
-      ukrainian: "Хорватія",
+      english: 'Croatia',
+      spanish: 'Croacia',
+      ukrainian: 'Хорватія',
     },
   },
 
   {
     numberOfColors: 5,
     colorsUsed: {
-      blue: "#003082",
-      white: "#FFFFFF",
-      green: "#289728",
-      yellow: "#FFCE00",
-      red: "#D21034",
+      blue: '#003082',
+      white: '#FFFFFF',
+      green: '#289728',
+      yellow: '#FFCE00',
+      red: '#D21034',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10925,24 +10925,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/180px-Flag_of_the_Central_African_Republic.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/180px-Flag_of_the_Central_African_Republic.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1280px-Flag_of_the_Central_African_Republic.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1280px-Flag_of_the_Central_African_Republic.svg.png',
     SovereignStateFlags: {
-      english: "Central African Republic",
-      spanish: "República Centroafricana",
-      ukrainian: "Центральноафриканська Республіка",
+      english: 'Central African Republic',
+      spanish: 'República Centroafricana',
+      ukrainian: 'Центральноафриканська Республіка',
     },
   },
 
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#002664",
-      yellow: "#FECB00",
-      red: "#C60C30",
+      blue: '#002664',
+      yellow: '#FECB00',
+      red: '#C60C30',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -10985,23 +10985,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/180px-Flag_of_Chad.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/180px-Flag_of_Chad.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1280px-Flag_of_Chad.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1280px-Flag_of_Chad.svg.png',
     SovereignStateFlags: {
-      english: "Chad",
-      spanish: "Chad",
-      ukrainian: "Чад",
+      english: 'Chad',
+      spanish: 'Chad',
+      ukrainian: 'Чад',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      blue: "#11457E",
-      white: "#FFFFFF",
-      red: "#D7141A",
+      blue: '#11457E',
+      white: '#FFFFFF',
+      red: '#D7141A',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -11044,23 +11044,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/180px-Flag_of_the_Czech_Republic.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/180px-Flag_of_the_Czech_Republic.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png',
     SovereignStateFlags: {
-      english: "Czech Republic",
-      spanish: "República Checa",
-      ukrainian: "Чехія",
+      english: 'Czech Republic',
+      spanish: 'República Checa',
+      ukrainian: 'Чехія',
     },
   },
   {
     numberOfColors: 3,
     colorsUsed: {
-      white: "#FFFFFF",
-      red: "#DA291C",
-      blue: "#0032A0",
+      white: '#FFFFFF',
+      red: '#DA291C',
+      blue: '#0032A0',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -11103,25 +11103,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/180px-Flag_of_Chile.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/180px-Flag_of_Chile.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png',
     SovereignStateFlags: {
-      english: "Chile",
-      spanish: "Chile",
-      ukrainian: "Чилі",
+      english: 'Chile',
+      spanish: 'Chile',
+      ukrainian: 'Чилі',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      red: "#C40308",
-      gold: "#D4AF3A",
-      blue: "#1D5E91",
-      green: "#6D8C3E",
-      brown: "#B96B29",
+      red: '#C40308',
+      gold: '#D4AF3A',
+      blue: '#1D5E91',
+      green: '#6D8C3E',
+      brown: '#B96B29',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -11164,23 +11164,23 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/240px-Flag_of_Montenegro.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/240px-Flag_of_Montenegro.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1280px-Flag_of_Montenegro.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1280px-Flag_of_Montenegro.svg.png',
     SovereignStateFlags: {
-      english: "Montenegro",
-      spanish: "Montenegro",
-      ukrainian: "Чорногорія",
+      english: 'Montenegro',
+      spanish: 'Montenegro',
+      ukrainian: 'Чорногорія',
     },
   },
 
   {
     numberOfColors: 2,
     colorsUsed: {
-      blue: "#006AA7",
-      yellow: "#FECC02",
+      blue: '#006AA7',
+      yellow: '#FECC02',
     },
-    proportions: "5:8",
+    proportions: '5:8',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -11223,22 +11223,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/192px-Flag_of_Sweden.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/192px-Flag_of_Sweden.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png',
     SovereignStateFlags: {
-      english: "Sweden",
-      spanish: "Suecia",
-      ukrainian: "Швеція",
+      english: 'Sweden',
+      spanish: 'Suecia',
+      ukrainian: 'Швеція',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#DA291C",
-      white: "#FFFFFF",
+      red: '#DA291C',
+      white: '#FFFFFF',
     },
-    proportions: "1:1",
+    proportions: '1:1',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -11281,25 +11281,25 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/120px-Flag_of_Switzerland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/120px-Flag_of_Switzerland.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png',
     SovereignStateFlags: {
-      english: "Switzerland",
-      spanish: "Suiza",
-      ukrainian: "Швейцарія",
+      english: 'Switzerland',
+      spanish: 'Suiza',
+      ukrainian: 'Швейцарія',
     },
   },
   {
     numberOfColors: 5,
     colorsUsed: {
-      saffron: "#FFBE29",
-      orange: "#EB7400",
-      green: "#00534E",
-      maroon: "#8D153A",
-      black: "#000000",
+      saffron: '#FFBE29',
+      orange: '#EB7400',
+      green: '#00534E',
+      maroon: '#8D153A',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -11342,24 +11342,24 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/240px-Flag_of_Sri_Lanka.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/240px-Flag_of_Sri_Lanka.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png',
     SovereignStateFlags: {
-      english: "Sri Lanka",
-      spanish: "Sri Lanka",
-      ukrainian: "Шрі-Ланка",
+      english: 'Sri Lanka',
+      spanish: 'Sri Lanka',
+      ukrainian: 'Шрі-Ланка',
     },
   },
 
   {
     numberOfColors: 3,
     colorsUsed: {
-      green: "#009B3A",
-      yellow: "#FED100",
-      black: "#000000",
+      green: '#009B3A',
+      yellow: '#FED100',
+      black: '#000000',
     },
-    proportions: "1:2",
+    proportions: '1:2',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: false,
@@ -11402,22 +11402,22 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/240px-Flag_of_Jamaica.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/240px-Flag_of_Jamaica.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1280px-Flag_of_Jamaica.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1280px-Flag_of_Jamaica.svg.png',
     SovereignStateFlags: {
-      english: "Jamaica",
-      spanish: "Jamaica",
-      ukrainian: "Ямайка",
+      english: 'Jamaica',
+      spanish: 'Jamaica',
+      ukrainian: 'Ямайка',
     },
   },
   {
     numberOfColors: 2,
     colorsUsed: {
-      red: "#BC002D",
-      white: "#FFFFFF",
+      red: '#BC002D',
+      white: '#FFFFFF',
     },
-    proportions: "2:3",
+    proportions: '2:3',
     colorPlacement: {
       withUnitedKingdomCross: false,
       withOneMainColor: true,
@@ -11460,13 +11460,13 @@ export const galleryItems = [
       InTriangle: false,
     },
     preview:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/180px-Flag_of_Japan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/180px-Flag_of_Japan.svg.png',
     original:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png',
     SovereignStateFlags: {
-      english: "Japan",
-      spanish: "Japón",
-      ukrainian: "Японія",
+      english: 'Japan',
+      spanish: 'Japón',
+      ukrainian: 'Японія',
     },
   },
 ];
