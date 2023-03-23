@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "world-flag-project",
   "version": "2.0.0",
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://nikopolzp.github.io/world-flag-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /world-flag-project/"
   },
   "repository": {
     "type": "git",
