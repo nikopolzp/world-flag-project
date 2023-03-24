@@ -98,3 +98,23 @@ gallery.append(...items);
 new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
+
+// ===========================================================
+document.getElementById('search').addEventListener('click', () => {
+  //initializations
+  let searchInput = document.getElementById('search-input').value;
+  let countryNames = document.querySelectorAll('.sl-caption');
+  console.log('🚀 ~ document.getElementById ~ countryNames:', countryNames);
+  let cards = document.querySelectorAll('.gallery__link');
+  //loop through all elements
+  countryNames.forEach((countryName, index) => {
+    //check if text includes the search value
+    if (countryName.innerText.includes(searchInput.toUpperCase())) {
+      //display matching card
+      cards[index].classList.remove('hide');
+    } else {
+      //hide others
+      cards[index].classList.add('hide');
+    }
+  });
+});
