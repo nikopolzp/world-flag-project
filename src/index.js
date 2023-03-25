@@ -6,6 +6,7 @@ const gallery = document.querySelector('.gallery');
 mainTags.addEventListener('click', onMainTagsContainerclick);
 
 function onMainTagsContainerclick(e) {
+  // ФУНКЦІЯ СОРТУВАННЯ ЗА КОНТИНЕНТАЛЬНОЮ ОЗНАКОМ
   if (e.target.nodeName !== 'BUTTON') {
     return;
   }
@@ -43,6 +44,7 @@ const selectedTags = new Set();
 tags.addEventListener('click', onTagsContainerClick);
 
 function onTagsContainerClick(e) {
+  //ФУНКЦІЯ ДОДАВАННЯ АБО ЗНЯТТЯ КЛАСУ З КНОПОК ФІЛЬТРУ
   if (e.target.nodeName !== 'BUTTON') {
     return;
   }
@@ -62,7 +64,7 @@ function onTagsContainerClick(e) {
   console.log('selectedTags:', selectedTags);
 
   const galleryList = Array.from(document.querySelectorAll('.gallery__link'));
-
+  //ТУТ ПОТРІБНО ЗРОБИТИ ФІЛЬТР ПО КНОПКАМ
   galleryList.forEach(item => {
     const index = galleryList.indexOf(item);
     const galleryItem = galleryItems[index];
@@ -77,7 +79,7 @@ function onTagsContainerClick(e) {
     }
   });
 }
-// ===================================================================================
+// =============================ДОДАВАННЯ КАРТОК ПРАПОРІВ ДО HTML======================================================
 const items = [];
 
 galleryItems.forEach(element => {
@@ -99,22 +101,5 @@ new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
 
-// ===========================================================
-document.getElementById('search').addEventListener('click', () => {
-  //initializations
-  let searchInput = document.getElementById('search-input').value;
-  let countryNames = document.querySelectorAll('.sl-caption');
-  console.log('🚀 ~ document.getElementById ~ countryNames:', countryNames);
-  let cards = document.querySelectorAll('.gallery__link');
-  //loop through all elements
-  countryNames.forEach((countryName, index) => {
-    //check if text includes the search value
-    if (countryName.innerText.includes(searchInput.toUpperCase())) {
-      //display matching card
-      cards[index].classList.remove('hide');
-    } else {
-      //hide others
-      cards[index].classList.add('hide');
-    }
-  });
-});
+// =====================ПОТРІБНО ЗРОБИТИ ФУНКЦІЮ FIND ПО НАЗВІ КРАЇНИ ВВЕДЕНОЇ В ІНПУТ======================================
+document.getElementById('search').addEventListener('click', () => {});
