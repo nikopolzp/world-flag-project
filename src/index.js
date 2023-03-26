@@ -6,7 +6,6 @@ const gallery = document.querySelector('.gallery');
 mainTags.addEventListener('click', onMainTagsContainerclick);
 
 function onMainTagsContainerclick(e) {
-  // ФУНКЦІЯ СОРТУВАННЯ ЗА КОНТИНЕНТАЛЬНОЮ ОЗНАКОМ
   if (e.target.nodeName !== 'BUTTON') {
     return;
   }
@@ -20,7 +19,7 @@ function onMainTagsContainerclick(e) {
 
   const mainSelectedTags = nextActiveBtn.dataset.filter;
   console.log('mainSelectedTags:', mainSelectedTags);
-  // ===================================================
+  // ================ФУНКЦІЯ СОРТУВАННЯ ЗА КОНТИНЕНТАЛЬНОЮ ОЗНАКОМ============================
   const galleryList = gallery.querySelectorAll('.gallery__link');
   galleryList.forEach(item => {
     const flag = galleryItems[items.indexOf(item)];
